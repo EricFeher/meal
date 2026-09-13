@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Receptek — Mediterrán rendszer</title>
+<meta name="description" content="A 7 napos mediterrán étrend receptjei pontos grammokkal, elkészítéssel és tápértékkel. Lapozz balra-jobbra a napok között.">
+<meta name="theme-color" content="#F7F1E6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131209" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥗</text></svg>">
+<link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥗</text></svg>">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Mediterrán">
+</head>
+<body data-page="recipes">
+
+<div class="app">
+
+  <header class="topbar"></header>
+
+  <nav class="daybar" aria-label="Napválasztó">
+    <div class="daybar__row">
+      <button class="daynav daynav--prev" type="button" aria-label="Előző nap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <div class="daypills" role="tablist" aria-label="A hét napjai"></div>
+      <button class="daynav daynav--next" type="button" aria-label="Következő nap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+      </button>
+    </div>
+    <div class="daybar__meta"></div>
+  </nav>
+
+  <main class="track" aria-label="Napi receptek"></main>
+
+  <nav class="tabbar" aria-label="Oldalak"></nav>
+
+</div>
+
+<noscript>
+  <p style="padding:24px;font-family:system-ui">Ehhez az oldalhoz JavaScript szükséges. A teljes étrend megtalálható a <code>mediterran-etrend.md</code> fájlban is.</p>
+</noscript>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
