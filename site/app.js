@@ -228,7 +228,7 @@ function daySlide(day, index) {
         ${cards}
 
         <div class="slidefoot">
-          <p class="slidefoot__title">Heti előkészítés — kb. 30 perc, ebből 24 passzív</p>
+          <p class="slidefoot__title">Heti előkészítés — 3 perc</p>
           <ul class="prep">
             ${PREP.map((p) => `
               <li>
