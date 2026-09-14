@@ -5,7 +5,7 @@ export const META = {
   title: 'Mediterrán rendszer',
   subtitle: '75 kg · 170 cm · lassú fogyás, főzés nélkül',
   updated: '2026. 09. 14.',
-  targets: { kcal: 2195, protein: 156, carb: 198, fat: 80, fiber: 52, price: 4371 }
+  targets: { kcal: 2184, protein: 155, carb: 195, fat: 80, fiber: 51, price: 4411 }
 };
 
 /* ---------- A három fix napi étkezés ---------- */
@@ -129,8 +129,8 @@ const dinners = {
     id: 'meal-4',
     n: 4,
     kicker: '4. étkezés · vacsora',
-    title: 'Csicseriborsós-céklás paprikacsónak',
-    titleEn: 'Chickpea & beetroot pepper boats',
+    title: 'Csicseriborsós-retkes paprikacsónak',
+    titleEn: 'Chickpea & radish pepper boats',
     time: '6 perc',
     price: 1106,
     dressing: 'citromos',
@@ -138,7 +138,7 @@ const dinners = {
       { name: 'Csicseriborsó konzerv (lecsepegtetve)', amount: '240 g', product: 'Happy Frucht csicseriborsó 400/240 g', pack: '549 Ft / 240 g lecsepegtetve', price: 549 },
       { name: 'Kaliforniai paprika', amount: '150 g', product: 'Trikolor kaliforniai paprika 3 db (kb. 150 g/db)', pack: '649 Ft / 3 db', price: 216 },
       { name: 'Koktélparadicsom', amount: '100 g', product: 'Paradicsom fürtöskoktél 500 g', pack: '894 Ft / 500 g', price: 179 },
-      { name: 'Cékla (nyers, reszelve)', amount: '70 g', product: 'Cékla lédig', pack: '499 Ft / 1 kg', price: 35, highlight: true },
+      { name: 'Hónapos retek (szeletelve)', amount: '70 g (~5–6 db)', product: 'Hónapos retek 300 g', pack: '449 Ft / 300 g', price: 105, highlight: true },
       { name: 'Lilahagyma', amount: '30 g', product: 'Lilahagyma 500 g', pack: '369 Ft / 500 g', price: 22 },
       { name: 'Extra szűz olívaolaj', amount: '8 g', product: 'Auchan Kedvenc extra szűz olívaolaj 1 l PET', pack: '5 799 Ft / 1 l ≈ 920 g', price: 50 },
       { name: 'Citromlé (frissen facsarva)', amount: '10 g', product: 'Auchan Kedvenc facsarni való citrom 1 kg', pack: '1 899 Ft / 1 kg ≈ 350 ml lé', price: 54 }
@@ -146,11 +146,11 @@ const dinners = {
     steps: [
       { text: 'Vágd félbe hosszában a kaliforniai paprikát, kanállal kapard ki a magházat – ez lesz a „tál”.' },
       { text: 'Öntsd szűrőbe a csicseriborsót, öblítsd át hideg víz alatt, csepegtesd le.' },
-      { text: 'Keverd össze a félbevágott koktélparadicsommal, a <b>durvára reszelt nyers céklával</b> és a vékonyra szelt lilahagymával.' },
+      { text: 'Keverd össze a félbevágott koktélparadicsommal, a <b>vékonyra szelt hónapos retekkel</b> és a vékonyra szelt lilahagymával.' },
       { text: 'Olívaolaj, citromlé, oregánó, <b>só</b>, bors – forgasd össze, kanalazd a paprikafelekbe.' }
     ],
-    nutrition: { kcal: 520, kcalPct: 23, protein: 22, proteinPct: 13, carb: 78, carbNet: 56, fat: 16, fiber: 22, fiberPct: 45 },
-    micros: 'C-vitamin ~250 mg (310% NRV) · folát ~280 µg · vas ~4 mg · kálium ~1 100 mg · nitrát (cékla)'
+    nutrition: { kcal: 501, kcalPct: 23, protein: 21, proteinPct: 14, carb: 74, carbNet: 53, fat: 16, fiber: 21, fiberPct: 41 },
+    micros: 'C-vitamin ~250 mg (310% NRV) · folát ~230 µg · vas ~4 mg · kálium ~1 050 mg'
   },
 
   kedd: {
@@ -193,20 +193,20 @@ const dinners = {
       { name: 'Párolt lencse konzerv', amount: '1 doboz (310 g)', product: 'Globus párolt lencse 310 g', pack: '599 Ft / 310 g', price: 599 },
       { name: 'Avokádó (tisztítva)', amount: '120 g', product: 'Szájérett avokádó (kb. 200 g/db, ebből ~140 g hús)', pack: '429 Ft / 1 db', price: 368 },
       { name: 'Koktélparadicsom', amount: '100 g', product: 'Paradicsom fürtöskoktél 500 g', pack: '894 Ft / 500 g', price: 179 },
-      { name: 'Cékla (nyers, reszelve)', amount: '70 g', product: 'Cékla lédig', pack: '499 Ft / 1 kg', price: 35, highlight: true },
+      { name: 'Hónapos retek (szeletelve)', amount: '70 g (~5–6 db)', product: 'Hónapos retek 300 g', pack: '449 Ft / 300 g', price: 105, highlight: true },
       { name: 'Friss salátakeverék', amount: '70 g', product: 'Eisberg Pántlika Mix 190 g', pack: '549 Ft / 190 g', price: 202 },
       { name: 'Lilahagyma', amount: '20 g', product: 'Lilahagyma 500 g', pack: '369 Ft / 500 g', price: 15 },
       { name: 'Citromlé (frissen facsarva)', amount: '15 g', product: 'Auchan Kedvenc facsarni való citrom 1 kg', pack: '1 899 Ft / 1 kg ≈ 350 ml lé', price: 81 },
       { name: 'Extra szűz olívaolaj', amount: '3 g', product: 'Auchan Kedvenc extra szűz olívaolaj 1 l PET', pack: '5 799 Ft / 1 l ≈ 920 g', price: 19 }
     ],
     steps: [
-      { text: 'Öblítsd át egy doboz párolt lencsét szűrőben hideg víz alatt, csepegtesd le, tedd a tálba. Reszelj rá durvára 70 g nyers céklát. <b>Ez a hét második konzerve</b> – szerdán kettőt nyitsz, egyet ebédre, egyet ide. <b>A céklát tedd a tál egyik oldalára</b>, ne keverd át azonnal.' },
+      { text: 'Öblítsd át egy doboz párolt lencsét szűrőben hideg víz alatt, csepegtesd le, tedd a tálba. Szeletelj rá vékonyra 70 g hónapos retket. <b>Ez a hét második konzerve</b> – szerdán kettőt nyitsz, egyet ebédre, egyet ide. <b>A céklát tedd a tál egyik oldalára</b>, ne keverd át azonnal.' },
       { text: 'Vágd félbe az avokádót, kanalazd ki a húsát, kockázd fel – dobd a lencsére.' },
       { text: 'Tedd rá a salátakeveréket, a félbevágott koktélparadicsomot, a vékonyra szelt lilahagymát.' },
-      { text: 'Bőven citromlé (ez tartja zölden az avokádót), egy kevés olívaolaj, <b>só</b>, bors. <b>Óvatosan</b> forgasd össze, hogy az avokádó ne kenődjön szét – és hogy a cékla ne fesse rózsaszínre az egészet.' }
+      { text: 'Bőven citromlé (ez tartja zölden az avokádót), egy kevés olívaolaj, <b>só</b>, bors. <b>Óvatosan</b> forgasd össze, hogy az avokádó ne kenődjön szét.' }
     ],
-    nutrition: { kcal: 572, kcalPct: 26, protein: 28, proteinPct: 18, carb: 61, carbNet: 34, fat: 23, fiber: 27, fiberPct: 52 },
-    micros: 'Egyszeresen telítetlen zsírsavak · kálium ~1 400 mg · folát ~340 µg · E-vitamin · K-vitamin ~110 µg · vas ~5 mg'
+    nutrition: { kcal: 553, kcalPct: 25, protein: 27, proteinPct: 17, carb: 57, carbNet: 31, fat: 23, fiber: 26, fiberPct: 51 },
+    micros: 'Egyszeresen telítetlen zsírsavak · kálium ~1 300 mg · folát ~290 µg · E-vitamin · K-vitamin ~110 µg · vas ~5 mg'
   },
 
   csutortok: {
@@ -240,8 +240,8 @@ const dinners = {
     id: 'meal-4',
     n: 4,
     kicker: '4. étkezés · vacsora',
-    title: 'Vörösbabos-céklás saláta',
-    titleEn: 'Kidney bean & beetroot salad',
+    title: 'Vörösbabos-retkes saláta',
+    titleEn: 'Kidney bean & radish salad',
     time: '6 perc',
     price: 1299,
     dressing: 'joghurtos',
@@ -250,7 +250,7 @@ const dinners = {
       { name: 'Kígyóuborka', amount: '120 g', product: 'Kígyóuborka (kb. 400 g/db)', pack: '349 Ft / 1 db', price: 105 },
       { name: 'Lilahagyma', amount: '30 g', product: 'Lilahagyma 500 g', pack: '369 Ft / 500 g', price: 22 },
       { name: 'Kaliforniai paprika', amount: '80 g', product: 'Trikolor kaliforniai paprika 3 db (kb. 150 g/db)', pack: '649 Ft / 3 db', price: 115 },
-      { name: 'Cékla (nyers, reszelve)', amount: '70 g', product: 'Cékla lédig', pack: '499 Ft / 1 kg', price: 35, highlight: true },
+      { name: 'Hónapos retek (szeletelve)', amount: '70 g (~5–6 db)', product: 'Hónapos retek 300 g', pack: '449 Ft / 300 g', price: 105, highlight: true },
       { name: 'Friss salátakeverék', amount: '50 g', product: 'Eisberg Pántlika Mix 190 g', pack: '549 Ft / 190 g', price: 144 },
       { name: 'Natúr joghurt (zsírszegény)', amount: '150 g', product: 'Nádudvari zsírszegény, élőflórás natúr joghurt 150 g', pack: '98 Ft / 150 g pohár', price: 98 },
       { name: 'Fokhagyma', amount: '4 g', product: 'Fokhagyma 3 db/csomag (kb. 50 g/fej)', pack: '447 Ft / 3 db', price: 12 },
@@ -258,12 +258,12 @@ const dinners = {
     ],
     steps: [
       { text: 'Öblítsd át a kidney babot alaposan (ennek a legerősebb a konzervíze), csepegtesd le.' },
-      { text: 'Kockázd fel az uborkát és a kaliforniai paprikát, szeleteld vékonyra a lilahagymát, reszeld durvára a céklát.' },
+      { text: 'Kockázd fel az uborkát és a kaliforniai paprikát, szeleteld vékonyra a lilahagymát és a retket.' },
       { text: 'Tedd mellé a salátakeveréket.' },
-      { text: 'Turmixold össze a <b>joghurtos öntetet</b> egy csipet extra oregánóval, és forgasd bele. Hagyd 5 percet állni. <b>Sózd a végén.</b> A cékla és a fokhagymás joghurt klasszikus páros – ez a hét egyik legjobb tála.' }
+      { text: 'Turmixold össze a <b>joghurtos öntetet</b> egy csipet extra oregánóval, és forgasd bele. Hagyd 5 percet állni. <b>Sózd a végén.</b> A retek borsos élét a fokhagymás joghurt szelídíti – ez a hét egyik legjobb tála.' }
     ],
-    nutrition: { kcal: 527, kcalPct: 23, protein: 31, proteinPct: 19, carb: 84, carbNet: 63, fat: 10, fiber: 21, fiberPct: 43 },
-    micros: 'C-vitamin ~110 mg · folát ~300 µg · vas ~4 mg · kálium ~1 200 mg · B6-vitamin · nitrát (cékla)'
+    nutrition: { kcal: 508, kcalPct: 23, protein: 30, proteinPct: 19, carb: 80, carbNet: 60, fat: 10, fiber: 20, fiberPct: 39 },
+    micros: 'C-vitamin ~115 mg · folát ~250 µg · vas ~4 mg · kálium ~1 100 mg · B6-vitamin'
   },
 
   szombat: {
@@ -279,18 +279,18 @@ const dinners = {
       { name: 'Csicseriborsó konzerv (lecsepegtetve)', amount: '240 g', product: 'Happy Frucht csicseriborsó 400/240 g', pack: '549 Ft / 240 g lecsepegtetve', price: 549 },
       { name: 'Friss salátakeverék', amount: '70 g', product: 'Eisberg Pántlika Mix 190 g', pack: '549 Ft / 190 g', price: 202 },
       { name: 'Koktélparadicsom', amount: '100 g', product: 'Paradicsom fürtöskoktél 500 g', pack: '894 Ft / 500 g', price: 179 },
-      { name: 'Cékla (nyers, reszelve)', amount: '70 g', product: 'Cékla lédig', pack: '499 Ft / 1 kg', price: 35, highlight: true },
+      { name: 'Hónapos retek (szeletelve)', amount: '70 g (~5–6 db)', product: 'Hónapos retek 300 g', pack: '449 Ft / 300 g', price: 105, highlight: true },
       { name: 'Friss petrezselyemzöld', amount: '20 g', product: 'Petrezselyem csomós XL (kb. 60 g)', pack: '599 Ft / 1 csomó', price: 200 },
       { name: 'Citromlé (frissen facsarva)', amount: '15 g', product: 'Auchan Kedvenc facsarni való citrom 1 kg', pack: '1 899 Ft / 1 kg ≈ 350 ml lé', price: 81 },
       { name: 'Extra szűz olívaolaj', amount: '8 g', product: 'Auchan Kedvenc extra szűz olívaolaj 1 l PET', pack: '5 799 Ft / 1 l ≈ 920 g', price: 50 }
     ],
     steps: [
       { text: 'Öblítsd át a csicseriborsót, csepegtesd le.' },
-      { text: 'Salátakeverék + félbevágott koktélparadicsom + <b>reszelt nyers cékla</b> + a maradék petrezselyemzöld a tálba.' },
-      { text: 'Öntet: <b>bőven citromlé</b> + olívaolaj + oregánó + fokhagymabors + <b>só</b>. Ez a hét legfrissebb, legsavasabb tála – a citrom viszi, és a cékla földes ízét is ez töri meg.' }
+      { text: 'Salátakeverék + félbevágott koktélparadicsom + <b>vékonyra szelt retek</b> + a maradék petrezselyemzöld a tálba.' },
+      { text: 'Öntet: <b>bőven citromlé</b> + olívaolaj + oregánó + fokhagymabors + <b>só</b>. Ez a hét legfrissebb, legsavasabb tála – a citrom viszi, a retek pedig ropogást ad hozzá.' }
     ],
-    nutrition: { kcal: 483, kcalPct: 21, protein: 22, proteinPct: 13, carb: 70, carbNet: 50, fat: 15, fiber: 20, fiberPct: 41 },
-    micros: 'Folát ~310 µg · K-vitamin ~200 µg · C-vitamin ~60 mg · vas ~4 mg · nitrát (cékla)'
+    nutrition: { kcal: 464, kcalPct: 21, protein: 21, proteinPct: 14, carb: 66, carbNet: 47, fat: 15, fiber: 19, fiberPct: 37 },
+    micros: 'Folát ~260 µg · K-vitamin ~200 µg · C-vitamin ~65 mg · vas ~4 mg'
   },
 
   vasarnap: {
@@ -352,28 +352,28 @@ const A = 'https://auchan.hu/shop/';
 
 export const SHOPPING = {
   summary: {
-    monthly: 137909,
-    food: 113265,
+    monthly: 139123,
+    food: 114479,
     supplements: 24115,
     spices: 529,
-    daily: 4537,
-    perMeal: 1134
+    daily: 4576,
+    perMeal: 1144
   },
   rhythm: [
-    { name: 'Heti', when: 'hetente', items: 17, once: 22346, monthly: 97205 },
-    { name: 'Kétheti', when: 'kéthetente', items: 2, once: 4982, monthly: 10811 },
+    { name: 'Heti', when: 'hetente', items: 18, once: 22795, monthly: 99158 },
+    { name: 'Kétheti', when: 'kéthetente', items: 1, once: 4683, monthly: 10162 },
     { name: 'Havi', when: 'havonta', items: 5, once: 6893, monthly: 6893 },
     { name: 'Ritka', when: 'kb. 2,5 havonta', items: 1, once: 5799, monthly: 2320 },
     { name: 'Fűszer / só', when: 'alkalomszerűen', items: 3, once: null, monthly: 529 },
     { name: 'Kiegészítők', when: 'külön ritmus', items: 5, once: null, monthly: 24115 }
   ],
-  practice: 'A hónap 4 hetéből 2-ben csak a heti listát veszed meg (~22 346 Ft), egyszer a heti + kétheti (~27 328 Ft), egyszer a heti + kétheti + havi (~34 221 Ft).',
+  practice: 'A hónap 4 hetéből 2-ben csak a heti listát veszed meg (~22 795 Ft), egyszer a heti + kétheti (~27 478 Ft), egyszer a heti + kétheti + havi (~34 371 Ft).',
   lists: [
     {
       id: 'heti',
       title: 'Heti lista',
       cadence: 'minden héten',
-      total: 22346,
+      total: 22795,
       intro: 'Ez a törzslista. Friss és gyorsan fogyó tételek.',
       items: [
         { name: 'Paradicsom fürtöskoktél 500 g', url: A + 'paradicsom-furtoskoktel-500-g.p-765618', qty: '3 doboz', unit: '894 Ft', price: 2682, aisle: 'Zöldség – gyümölcs' },
@@ -400,11 +400,11 @@ export const SHOPPING = {
       id: 'ketheti',
       title: 'Kétheti lista',
       cadence: 'minden második héten',
-      total: 4982,
+      total: 4683,
       intro: 'Ezek a kiszerelések nem osztódnak kerekre egy hétre, ezért kétheti ritmusban veszed őket.',
       items: [
         { name: 'Szijártó friss tojás M méret 10 db', url: A + 'szijarto-friss-tojas-m-meret-10-db.p-59504', qty: '7 doboz (70 db)', unit: '669 Ft', price: 4683, aisle: 'Tojás' },
-        { name: 'Cékla lédig', url: A + 'cekla-ledig.p-6948', qty: '~600 g (1 nagy vagy 2 kisebb gumó)', unit: '499 Ft/kg', price: 299, aisle: 'Zöldség – gyümölcs', flag: 'Nyerset vegyél, súlyra. Ha van rajta zöld szár, vágd le rögtön otthon.' }
+        { name: 'Hónapos retek 300 g', url: A + 'honapos-retek-300-g.p-168734', qty: '1 zacskó', unit: '449 Ft', price: 449, aisle: 'Zöldség – gyümölcs', flag: 'Nem kell hámozni és reszelni – mosás, végeket levágni, karikákra szeletelni. A 300 g-os zacskó pontosan 4 adag. Súlyra. Ha van rajta zöld szár, vágd le rögtön otthon.' }
       ],
       outro: '<b>Miért pont ennyi:</b> a tojásból naponta 5 db kell (heti 35) → 2 hét = 70 db = pontosan 7 doboz. A céklából heti 280 g kell (4 vacsora × 70 g) → 2 hét = 560 g.'
     },
@@ -464,21 +464,22 @@ export const SHOPPING = {
   ],
   firstShop: {
     rows: [
-      { name: 'Heti lista', price: 22346 },
-      { name: 'Kétheti lista', price: 4982 },
+      { name: 'Heti lista', price: 22795 },
+      { name: 'Kétheti lista', price: 4683 },
       { name: 'Havi lista', price: 6893 },
       { name: 'Ritka (olívaolaj)', price: 5799 },
       { name: 'Fűszer, só', price: 819 },
       { name: 'D3 + cink (Auchan)', price: 5198 },
-      { name: 'Auchan összesen', price: 46037, strong: true },
+      { name: 'Auchan összesen', price: 46187, strong: true },
       { name: 'GymBeam: fehérjepor + kreatin + omega-3', price: 29570 },
-      { name: 'Első bevásárlás mindösszesen', price: 75607, strong: true, total: true }
+      { name: 'Első bevásárlás mindösszesen', price: 75757, strong: true, total: true }
     ],
-    note: 'A <b>2. héttől</b> ez lezuhan: a legtöbb héten csak a heti lista kell, ~22 346 Ft.'
+    note: 'A <b>2. héttől</b> ez lezuhan: a legtöbb héten csak a heti lista kell, ~22 795 Ft.'
   },
   tips: [
     { name: 'Tahini', text: 'A <b>libanoni, 7 068 Ft/kg</b>-os a jó, ne a Makedoniki 300 g-ost vedd (10 563 Ft/kg). Az összetevők közt csak szezámmag legyen. Használat előtt keverd át – az olaj kiül a tetejére.' },
-    { name: 'Cékla', text: '<b>Nyerset vegyél, lédig</b> – nem főttet, nem ecetest. Az Auchan nem forgalmaz sima előfőzött céklát: amit „cékla” néven a polcon találsz, az ecetes savanyúság vagy fermentált, tormás-fokhagymás változat. Egyik sem jó ide. A nyers gumó a zöldségosztályon van, kilóra.' },
+    { name: 'Hónapos retek', text: 'Nem kell hámozni és nem kell reszelni – mosás, két végét levágni, vékony karikákra szeletelni. A 300 g-os zacskó <b>pontosan 4 adag</b>. Ha leveles csomót veszel, a zöldjét vágd le rögtön otthon. <i>(A korábbi cékla azért esett ki, mert naponta hámozni-reszelni túl sok macera volt.)</i>' },
+    { name: 'Cékla – már nem szerepel', text: 'Ha mégis visszatennéd: <b>nyerset vegyél, lédig</b> – nem főttet, nem ecetest. Az Auchan nem forgalmaz sima előfőzött céklát: amit „cékla” néven a polcon találsz, az ecetes savanyúság vagy fermentált, tormás-fokhagymás változat. Egyik sem jó ide. A nyers gumó a zöldségosztályon van, kilóra.' },
     { name: 'Cottage cheese', text: 'Az Auchan egyetlen valódi cottage cheese-t forgalmaz – ez az. <b>Ne túrót vegyél helyette</b>, a kettő nem ugyanaz (a túró száraz és morzsás, 17 g fehérje/100 g; a cottage cheese nedves rögök, 12 g).' },
     { name: 'Kefir', text: 'Most <b>6 poharat</b> veszel, nem 4-et. Ellenőrizd a szavatosságot – a hatodik pohár a hét végén, sőt a következő hét elején kerül sorra.' },
     { name: 'Banán', text: 'Vegyél <b>inkább zöldebbet</b>, és érleld otthon. A fagyasztáshoz foltos, teljesen érett banán kell – akkor a legédesebb, és a fagyasztás ott rögzíti.' },
@@ -491,14 +492,14 @@ export const SHOPPING = {
   ],
   savings: [
     { step: 'Konzerv lencse → száraz beluga lencse', save: '–12 600 Ft/hó', cost: 'Visszajön a vasárnapi 25 perces főzés és a 2,5 kg főtt lencse a hűtőben. A messze legnagyobb megtakarítás – és pontosan az a kényelem, amit szándékosan megvettél.' },
-    { step: 'Fehérjepor 45 → 30 g', save: '–5 900 Ft/hó', cost: 'A fehérje 156-ról ~144 g-ra esne (1,92 g/ttkg). <b>Deficitben ez pont a rossz irány</b> – ez tartja meg az izmot. Ez a legnagyobb mozdítható tétel, és mégis ehhez nyúlnék utoljára.' },
+    { step: 'Fehérjepor 45 → 30 g', save: '–5 900 Ft/hó', cost: 'A fehérje 155-ról ~143 g-ra esne (1,92 g/ttkg). <b>Deficitben ez pont a rossz irány</b> – ez tartja meg az izmot. Ez a legnagyobb mozdítható tétel, és mégis ehhez nyúlnék utoljára.' },
     { step: 'Koktélparadicsom → sima paradicsom', save: '–5 500 Ft/hó', cost: 'Nem szereted a sima paradicsomot.' },
     { step: 'Kefir → UHT tej (239 Ft/l)', save: '–4 600 Ft/hó', cost: 'Elveszíted a napi élő kultúrákat, és a kalcium ~880-ról ~700 mg alá esne.' },
     { step: 'Cottage cheese → félzsíros túró', save: '–4 200 Ft/hó', cost: 'Nem az, amit kértél.' },
     { step: 'Tahini → semmi, csak olívaolaj', save: '–2 300 Ft/hó', cost: 'A hummusz elveszíti a jellegét, és kiesik egy növényfaj. A kalóriát olajjal pótolnád, ami ugyanannyi.' }
   ],
   storage: {
-    fridge: 'salátakeverék, petrezselyem, paprika, uborka, koktélparadicsom, cottage cheese, tojás, citrom, joghurt, kefir, cékla, a főtt lencse és a kész hummusz',
+    fridge: 'salátakeverék, petrezselyem, paprika, uborka, koktélparadicsom, cottage cheese, tojás, citrom, joghurt, kefir, hónapos retek',
     pantry: 'zab, lencse, konzervek, olívaolaj, tahini, lilahagyma, fokhagyma, fehérjepor, kreatin, chia',
     freezer: 'a bogyós gyümölcs és a banán – mindkettő fagyottan megy a turmixba, egyiket sem kell kiolvasztani',
     counter: 'az avokádó, amíg meg nem érik; a banán, amíg foltos nem lesz – utána az avokádó hűtőbe, a banán fagyasztóba'
