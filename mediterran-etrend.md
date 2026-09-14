@@ -92,12 +92,16 @@
 
 **Elkészítés**
 
-1. **Vasárnap (egyszer a hétre):** 990 g száraz beluga lencsét öblíts át, tedd fel 3-szoros mennyiségű hideg, *sózatlan* vízzel. Forrástól számítva **24–25 perc** – ez hosszabb, mint a régi tálas verzióban, mert a pürének puhább szem kell. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és **teljesen hidegen** tedd zárható dobozba.
-2. **Turmixolás – heti kétszer, 3 napra előre.** Egy 3 napos adaghoz: **990 g főtt lencse · 36 g tahini · 15 g olívaolaj · 30 g citromlé · 3 gerezd fokhagyma · kb. 90 ml hideg víz · bors, oregánó.** Turmixold 60–90 másodpercig, egyszer kaparva le az oldalát. Vízzel hígítsd mártogatós állagúra, kanalanként.
+1. **Vasárnap – a heti lencsekészlet:** **990 g SZÁRAZ** beluga lencsét öblíts át, tedd fel 3-szoros mennyiségű hideg, *sózatlan* vízzel. Forrástól számítva **24–25 perc** – ez hosszabb, mint a régi tálas verzióban, mert a pürének puhább szem kell. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és **teljesen hidegen** tedd zárható dobozba. Ebből lesz **kb. 2,5 kg főtt lencse**, ami az egész hetet fedi.
+2. **Turmixolás – heti kétszer, egy adag 3 napra.** Egy turmixolás **3 ebédnyi**: 3 × 330 g = **kb. 1 kg FŐTT lencse** a vasárnapi készletből · 36 g tahini · 15 g olívaolaj · 30 g citromlé · 3 gerezd fokhagyma · kb. 90 ml hideg víz · bors, oregánó. Turmixold 60–90 másodpercig, egyszer kaparva le az oldalát. Vízzel hígítsd mártogatós állagúra, kanalanként.
 3. **A sót a legvégén add hozzá, kóstolás után.** Mióta nincs benne feta, semmi nem sózza meg helyetted – többet fog kérni, mint gondolnád.
 4. **Tálalás (1 perc):** mérj ki egy adagot, mellé félbevágott koktélparadicsom és **vastag uborkacsíkok** – ezekkel mártogatod. Kenyér nincs, nem is kell.
 
-> **Miért hummusz és nem tál?** Ugyanaz a hozzávaló, ugyanaz a tápérték, de heti **két turmixolás** kiváltja a napi hét aprítást. A püré 3 napig áll el hűtőben – ennél tovább ne tartsd.
+> **Két szám, ne keverd össze őket.** A **990 g a SZÁRAZ** lencse, amit vasárnap egyszer felteszel az egész hétre – ebből lesz ~2,5 kg **főtt** lencse. Egy turmixolás ebből a készletből használ fel **kb. 1 kg FŐTT** lencsét (3 ebédnyit). A kettő véletlenül majdnem ugyanaz a szám, de teljesen mást jelent.
+
+> **Miért hummusz és nem tál?** Ugyanaz a hozzávaló, ugyanaz a tápérték, de heti **két turmixolás** kiváltja a napi aprítást. A püré **3 napig** áll el hűtőben – ennél tovább ne tartsd.
+
+> **A 7. ebéd: szombaton tálként edd.** Két turmixolás 3–3 napot fed, az 6 ebéd – a hetedikre nem jut. Ne told meg a szerdai adagot négy naposra: szombaton **hagyd ki a turmixgépet**, és edd a régi formában – 330 g egész főtt lencse, rádobva a felkockázott paradicsom és uborka, olívaolaj, citrom, só, bors, oregánó. Ugyanaz a tápérték, ugyanaz az ár, és egy nap a héten nem pürét eszel.
 
 > **Amit tudnod kell a tahiniről:** ez helyettesíti a kikerült fetát, és majdnem pontosan ugyanazt a zsírt és kalóriát hozza, csak szezámból. Polcon áll el hónapokig, tehát nincs maradékgond: egy ~454 g-os üveg **öt hétre** elég. Használat előtt **keverd át** – az olaj kiül a tetejére.
 
@@ -507,16 +511,16 @@ Makrómegoszlás: fehérje 29% · szénhidrát 31% · zsír 30% (a felszívódó
 
 Ez már nem egyetlen lépés – **három**, összesen kb. 30 perc, ebből 24 passzív.
 
-**1. Vasárnap, 25 perc (ebből 24 passzív): lencse.** Tegyél fel 990 g száraz beluga lencsét bő, *sózatlan* hideg vízben. Forrástól **24–25 perc**. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és **teljesen kihűlve** tedd a hűtőbe. Ez fedi mind a 7 ebédet **és** a szerdai vacsorát (200 g).
+**1. Vasárnap, 25 perc (ebből 24 passzív): lencse.** Tegyél fel **990 g SZÁRAZ** beluga lencsét bő, *sózatlan* hideg vízben. Forrástól **24–25 perc**. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és **teljesen kihűlve** tedd a hűtőbe. Ebből **kb. 2,5 kg főtt** lencse lesz – ez fedi mind a 7 ebédet (napi 330 g) **és** a szerdai vacsorát (200 g).
 
-**2. Vasárnap + szerda, 2 × 2 perc: hummusz.** Turmixold be a 3 napos adagot a 2. étkezésnél leírt arányok szerint. Két turmixolás fedi a hetet; a hetedik napra maradó adagot szerdán turmixold bele.
+**2. Vasárnap + szerda, 2 × 2 perc: hummusz.** Turmixolj be **3 ebédnyit** (kb. 1 kg **főtt** lencse a készletből) a 2. étkezésnél leírt arányok szerint. A vasárnapi adag fedi vasárnap–keddet, a szerdai szerda–pénteket. **Szombaton nincs turmixolás** – aznap tálként eszed, egész lencsével.
 
 **3. Heti egyszer, 3 perc: banán.** 2 érett banán meghámozva, negyedelve, tányéron 1 órát fagyasztva, utána zacskóba. 8 adag.
 
 Két gyakorlati megjegyzés:
 
 - A 990 g szárazból kb. **2,5 kg főtt lencse** lesz – ehhez egy nagy, 3 literes doboz kell. Ha **két kisebb dobozba** osztod, csak az egyiket nyitogatod, a másik érintetlenül vár.
-- A főtt lencse hűtőben **5–7 napig** jó; a belőle turmixolt **hummusz csak 3 napig**. Ezért van két turmixolás, és ezért nem turmixolsz be egyszerre egy hétre valót.
+- A főtt lencse hűtőben **5–7 napig** jó; a belőle turmixolt **hummusz csak 3 napig**. Ezért van két turmixolás, ezért nem turmixolsz be egyszerre egy hétre valót, és ezért marad a szombati ebéd tálas – így egyetlen adag hummusz sem lesz 3 napnál idősebb. A szombati lencse 6 napos lesz: még belefér, de ez a hét legszűkebb pontja. Ha zavar, főzz kétszer (vasárnap és csütörtök) feleakkora adagot.
 
 ---
 

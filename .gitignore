@@ -1,4 +1,6 @@
+.env
+.env.*
+.claude/
 .playwright-mcp/
-.claude/scratch/
-.claude/worktrees/
+.impeccable/
 .DS_Store

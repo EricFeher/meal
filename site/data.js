@@ -63,13 +63,15 @@ const meal2 = {
     { name: 'Fokhagyma', amount: '1 gerezd (~4 g)', product: 'Fokhagyma 3 db/csomag', pack: '447 Ft / 3 db', price: 12 }
   ],
   steps: [
-    { label: 'Vasárnap · egyszer a hétre', text: '990 g száraz beluga lencsét öblíts át, tedd fel 3-szoros mennyiségű hideg, <b>sózatlan</b> vízzel. Forrástól számítva <b>24–25 perc</b> – ez hosszabb, mint a régi tálas verzióban, mert a pürének puhább szem kell. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és <b>teljesen hidegen</b> tedd zárható dobozba.' },
-    { label: 'Turmixolás · heti kétszer, 3 napra előre', text: 'Egy 3 napos adaghoz: <b>990 g főtt lencse · 36 g tahini · 15 g olívaolaj · 30 g citromlé · 3 gerezd fokhagyma · kb. 90 ml hideg víz · bors, oregánó.</b> Turmixold 60–90 másodpercig, egyszer kaparva le az oldalát. Vízzel hígítsd mártogatós állagúra, kanalanként.' },
+    { label: 'Vasárnap · a heti lencsekészlet', text: '<b>990 g SZÁRAZ</b> beluga lencsét öblíts át, tedd fel 3-szoros mennyiségű hideg, <b>sózatlan</b> vízzel. Forrástól számítva <b>24–25 perc</b> – ez hosszabb, mint a régi tálas verzióban, mert a pürének puhább szem kell. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és <b>teljesen hidegen</b> tedd zárható dobozba. Ebből lesz <b>kb. 2,5 kg főtt lencse</b>, ami az egész hetet fedi.' },
+    { label: 'Turmixolás · heti kétszer, egy adag 3 napra', text: 'Egy turmixolás <b>3 ebédnyi</b>: 3 × 330 g = <b>kb. 1 kg FŐTT lencse</b> a vasárnapi készletből · 36 g tahini · 15 g olívaolaj · 30 g citromlé · 3 gerezd fokhagyma · kb. 90 ml hideg víz · bors, oregánó. Turmixold 60–90 másodpercig, egyszer kaparva le az oldalát. Vízzel hígítsd mártogatós állagúra, kanalanként.' },
     { text: '<b>A sót a legvégén add hozzá, kóstolás után.</b> Mióta nincs benne feta, semmi nem sózza meg helyetted – többet fog kérni, mint gondolnád.' },
     { label: 'Tálalás · 1 perc', text: 'Mérj ki egy adagot, mellé félbevágott koktélparadicsom és <b>vastag uborkacsíkok</b> – ezekkel mártogatod. Kenyér nincs, nem is kell.' }
   ],
   notes: [
-    { label: 'Miért hummusz és nem tál?', text: 'Ugyanaz a hozzávaló, ugyanaz a tápérték, de heti <b>két turmixolás</b> kiváltja a napi hét aprítást. A püré 3 napig áll el hűtőben – ennél tovább ne tartsd.' },
+    { label: 'Két szám, ne keverd össze őket', text: 'A <b>990 g a SZÁRAZ</b> lencse, amit vasárnap egyszer felteszel az egész hétre – ebből lesz ~2,5 kg <b>főtt</b> lencse. Egy turmixolás ebből a készletből használ fel <b>kb. 1 kg FŐTT</b> lencsét (3 ebédnyit). A kettő véletlenül majdnem ugyanaz a szám, de teljesen mást jelent.' },
+    { label: 'Miért hummusz és nem tál?', text: 'Ugyanaz a hozzávaló, ugyanaz a tápérték, de heti <b>két turmixolás</b> kiváltja a napi aprítást. A püré <b>3 napig</b> áll el hűtőben – ennél tovább ne tartsd.' },
+    { label: 'A 7. ebéd: szombaton tálként edd', text: 'Két turmixolás 3–3 napot fed, az 6 ebéd – a hetedikre nem jut. Ne told meg a szerdai adagot négy naposra: szombaton <b>hagyd ki a turmixgépet</b>, és edd a régi formában – 330 g egész főtt lencse, rádobva a felkockázott paradicsom és uborka, olívaolaj, citrom, só, bors, oregánó. Ugyanaz a tápérték, ugyanaz az ár, és egy nap a héten nem pürét eszel.' },
     { label: 'Amit tudnod kell a tahiniről', text: 'Ez helyettesíti a kikerült fetát, és majdnem pontosan ugyanazt a zsírt és kalóriát hozza, csak szezámból. Polcon áll el hónapokig, tehát nincs maradékgond: egy ~454 g-os üveg <b>öt hétre</b> elég. Használat előtt <b>keverd át</b> – az olaj kiül a tetejére.' }
   ],
   nutrition: { kcal: 622, kcalPct: 27, protein: 36, proteinPct: 22, carb: 86, carbNet: 68, fat: 13, fiber: 18, fiberPct: 37 },
@@ -335,14 +337,14 @@ export const DAYS = [
 /* ---------- Heti előkészítés ---------- */
 
 export const PREP = [
-  { when: 'Vasárnap · 25 perc', title: 'Lencse (ebből 24 perc passzív)', text: 'Tegyél fel <b>990 g száraz beluga lencsét</b> bő, <b>sózatlan</b> hideg vízben. Forrástól <b>24–25 perc</b>. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és <b>teljesen kihűlve</b> tedd a hűtőbe. Ez fedi mind a 7 ebédet <b>és</b> a szerdai vacsorát (200 g).' },
-  { when: 'Vasárnap + szerda · 2 × 2 perc', title: 'Hummusz', text: 'Turmixold be a 3 napos adagot a 2. étkezésnél leírt arányok szerint. Két turmixolás fedi a hetet; a hetedik napra maradó adagot szerdán turmixold bele.' },
+  { when: 'Vasárnap · 25 perc', title: 'Lencse (ebből 24 perc passzív)', text: 'Tegyél fel <b>990 g SZÁRAZ</b> beluga lencsét bő, <b>sózatlan</b> hideg vízben. Forrástól <b>24–25 perc</b>. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és <b>teljesen kihűlve</b> tedd a hűtőbe. Ebből <b>kb. 2,5 kg főtt</b> lencse lesz – ez fedi mind a 7 ebédet (napi 330 g) <b>és</b> a szerdai vacsorát (200 g).' },
+  { when: 'Vasárnap + szerda · 2 × 2 perc', title: 'Hummusz', text: 'Turmixolj be <b>3 ebédnyit</b> (kb. 1 kg <b>főtt</b> lencse a készletből) a 2. étkezésnél leírt arányok szerint. A vasárnapi adag fedi vasárnap–keddet, a szerdai szerda–pénteket. <b>Szombaton nincs turmixolás</b> – aznap tálként eszed, egész lencsével.' },
   { when: 'Heti egyszer · 3 perc', title: 'Banán', text: '2 érett banán meghámozva, negyedelve, tányéron 1 órát fagyasztva, utána zacskóba. 8 adag.' }
 ];
 
 export const PREP_NOTES = [
   'A 990 g szárazból kb. <b>2,5 kg főtt lencse</b> lesz – ehhez egy nagy, 3 literes doboz kell. Ha <b>két kisebb dobozba</b> osztod, csak az egyiket nyitogatod, a másik érintetlenül vár.',
-  'A főtt lencse hűtőben <b>5–7 napig</b> jó; a belőle turmixolt <b>hummusz csak 3 napig</b>. Ezért van két turmixolás, és ezért nem turmixolsz be egyszerre egy hétre valót.'
+  'A főtt lencse hűtőben <b>5–7 napig</b> jó; a belőle turmixolt <b>hummusz csak 3 napig</b>. Ezért van két turmixolás, ezért nem turmixolsz be egyszerre egy hétre valót, és ezért marad a szombati ebéd tálas – így egyetlen adag hummusz sem lesz 3 napnál idősebb. A szombati lencse 6 napos lesz: még belefér, de ez a hét legszűkebb pontja. Ha zavar, főzz kétszer (vasárnap és csütörtök) feleakkora adagot.'
 ];
 
 /* ---------- Bevásárlólista ---------- */
