@@ -1,11 +1,11 @@
 /* Mediterrán rendszer — adatok
-   Forrás: mediterran-etrend.md + bevasarlolista.md (2026. 09. 13-i átdolgozás) */
+   Forrás: mediterran-etrend.md + bevasarlolista.md (2026. 09. 14-i átdolgozás) */
 
 export const META = {
   title: 'Mediterrán rendszer',
   subtitle: '75 kg · 170 cm · lassú fogyás, főzés nélkül',
-  updated: '2026. 09. 13.',
-  targets: { kcal: 2276, protein: 163, carb: 225, fat: 77, fiber: 49, price: 3935 }
+  updated: '2026. 09. 14.',
+  targets: { kcal: 2195, protein: 156, carb: 198, fat: 80, fiber: 52, price: 4371 }
 };
 
 /* ---------- A három fix napi étkezés ---------- */
@@ -21,7 +21,7 @@ const meal1 = {
   time: '7 perc',
   price: 1327,
   ingredients: [
-    { name: 'Zabpehely', amount: '35 g', product: 'Bona Vita zabpehely 500 g', pack: '389 Ft / 500 g', price: 27 },
+    { name: 'Zabpehely', amount: '60 g', product: 'Bona Vita zabpehely 500 g', pack: '389 Ft / 500 g', price: 47 },
     { name: 'Fagyasztott áfonya', amount: '120 g', product: 'Auchan Kedvenc áfonya, gyorsfagyasztott 450 g', pack: '1 079 Ft / 450 g', price: 288 },
     { name: 'Banán (hámozva, <b>fagyasztva</b>)', amount: '30 g', product: 'Banán lédig', pack: '599 Ft / 1 kg', price: 18 },
     { name: 'Chia mag', amount: '8 g', product: 'Kalifa chia mag 200 g', pack: '969 Ft / 200 g', price: 39 },
@@ -37,9 +37,9 @@ const meal1 = {
     { text: '<b>Most sózd meg</b>, tekerj rá borsot, és szórj rá egy csipet oregánót vagy chilipelyhet.' }
   ],
   notes: [
-    { label: 'Fagyasztott banán – heti 3 perc', text: 'Napi 30 g egy közepes banán negyede, vágva-hűtve pedig 2 nap alatt megbarnulna. Ezért: végy <b>2 banánt</b>, érleld a pulton amíg <b>foltos</b> (ekkor a legédesebb), <b>hámozd meg</b>, vágd <b>4 darabra</b>, terítsd szét egy tányéron úgy, hogy ne érjenek össze, fagyaszd <b>1 órát</b>, és csak utána öntsd zacskóba. A tálcás előfagyasztás nélkül egyetlen tömbbé fagynak össze. 2 banán = 8 adag = 8 nap. <b>Héjastul ne fagyaszd</b> – utána nem tudod meghámozni. A fagyott banán ráadásul sűrűbbre és hidegebbre turmixolja az italt, ami most, a lecsökkentett zabadag mellett kifejezetten jól jön.' }
+    { label: 'Fagyasztott banán – heti 3 perc', text: 'Napi 30 g egy közepes banán negyede, vágva-hűtve pedig 2 nap alatt megbarnulna. Ezért: végy <b>2 banánt</b>, érleld a pulton amíg <b>foltos</b> (ekkor a legédesebb), <b>hámozd meg</b>, vágd <b>4 darabra</b>, terítsd szét egy tányéron úgy, hogy ne érjenek össze, fagyaszd <b>1 órát</b>, és csak utána öntsd zacskóba. A tálcás előfagyasztás nélkül egyetlen tömbbé fagynak össze. 2 banán = 8 adag = 8 nap. <b>Héjastul ne fagyaszd</b> – utána nem tudod meghámozni. A fagyott banán ráadásul sűrűbbre és hidegebbre turmixolja az italt.' }
   ],
-  nutrition: { kcal: 977, kcalPct: 43, protein: 66, proteinPct: 40, carb: 61, carbNet: 50, fat: 48, fiber: 11, fiberPct: 22 },
+  nutrition: { kcal: 1072, kcalPct: 49, protein: 69, proteinPct: 44, carb: 76, carbNet: 62, fat: 50, fiber: 14, fiberPct: 27 },
   micros: 'B12 ~3,8 µg (152% NRV) · kolin ~720 mg (5 tojás) · élő probiotikus kultúrák (kefir) · kalcium ~640 mg · ALA omega-3 ~1,5 g (chia) · C-vitamin ~15 mg · szelén ~60 µg'
 };
 
@@ -49,12 +49,12 @@ const meal2 = {
   kicker: '2. étkezés',
   short: 'Hummusz',
   tag: 'minden nap',
-  title: 'Beluga lencsés hummusz',
-  titleEn: 'Beluga lentil hummus',
-  time: '1 perc tálalás',
-  price: 750,
+  title: 'Lencsés hummusz',
+  titleEn: 'Lentil hummus',
+  time: '2 perc, naponta',
+  price: 1102,
   ingredients: [
-    { name: 'Beluga fekete lencse (száraz)', amount: '130 g', product: 'Beluga fekete lencse 500 g', pack: '949 Ft / 500 g', price: 247 },
+    { name: 'Párolt lencse konzerv', amount: '1 doboz (310 g)', product: 'Globus párolt lencse 310 g', pack: '599 Ft / 310 g', price: 599 },
     { name: 'Tahini (szezámpaszta)', amount: '12 g', product: 'Libanoni szezámpaszta (7 068 Ft/kg)', pack: '3 209 Ft / ~454 g', price: 85 },
     { name: 'Koktélparadicsom', amount: '120 g', product: 'Paradicsom fürtöskoktél 500 g', pack: '894 Ft / 500 g', price: 215 },
     { name: 'Kígyóuborka', amount: '120 g', product: 'Kígyóuborka (kb. 400 g/db)', pack: '349 Ft / 1 db', price: 105 },
@@ -63,19 +63,19 @@ const meal2 = {
     { name: 'Fokhagyma', amount: '1 gerezd (~4 g)', product: 'Fokhagyma 3 db/csomag', pack: '447 Ft / 3 db', price: 12 }
   ],
   steps: [
-    { label: 'Vasárnap · a heti lencsekészlet', text: '<b>990 g SZÁRAZ</b> beluga lencsét öblíts át, tedd fel 3-szoros mennyiségű hideg, <b>sózatlan</b> vízzel. Forrástól számítva <b>24–25 perc</b> – ez hosszabb, mint a régi tálas verzióban, mert a pürének puhább szem kell. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és <b>teljesen hidegen</b> tedd zárható dobozba. Ebből lesz <b>kb. 2,5 kg főtt lencse</b>, ami az egész hetet fedi.' },
-    { label: 'Turmixolás · heti kétszer, egy adag 3 napra', text: 'Egy turmixolás <b>3 ebédnyi</b>: 3 × 330 g = <b>kb. 1 kg FŐTT lencse</b> a vasárnapi készletből · 36 g tahini · 15 g olívaolaj · 30 g citromlé · 3 gerezd fokhagyma · kb. 90 ml hideg víz · bors, oregánó. Turmixold 60–90 másodpercig, egyszer kaparva le az oldalát. Vízzel hígítsd mártogatós állagúra, kanalanként.' },
-    { text: '<b>A sót a legvégén add hozzá, kóstolás után.</b> Mióta nincs benne feta, semmi nem sózza meg helyetted – többet fog kérni, mint gondolnád.' },
-    { label: 'Tálalás · 1 perc', text: 'Mérj ki egy adagot, mellé félbevágott koktélparadicsom és <b>vastag uborkacsíkok</b> – ezekkel mártogatod. Kenyér nincs, nem is kell.' }
+    { label: 'Konzervnyitás · 30 mp', text: 'Nyisd ki a dobozt, öntsd szűrőbe, <b>öblítsd át hideg vízzel</b>. Az öblítés a sót mossa le – a konzerv 0,64 g sót tartalmaz 100 grammonként, ami dobozonként ~2 g.' },
+    { label: 'Turmixolás · 90 mp', text: 'A lencse 12 g tahinivel, 5 g olívaolajjal, 10 g citromlével, 1 gerezd fokhagymával, borssal és oregánóval. <b>60–90 másodperc</b>, egyszer kaparva le az oldalát. Vizet általában nem kell – ha nagyon sűrű, kanalanként.' },
+    { text: '<b>Ne sózd meg.</b> Ez az egyetlen étkezés a tervben, ahol nem kell – a konzerv hozza a sót. Kóstold meg, mielőtt bármit hozzáadnál.' },
+    { label: 'Tálalás', text: 'Félbevágott koktélparadicsom és <b>vastag uborkacsíkok</b> mellé – ezekkel mártogatod. Kenyér nincs, nem is kell.' }
   ],
   notes: [
-    { label: 'Két szám, ne keverd össze őket', text: 'A <b>990 g a SZÁRAZ</b> lencse, amit vasárnap egyszer felteszel az egész hétre – ebből lesz ~2,5 kg <b>főtt</b> lencse. Egy turmixolás ebből a készletből használ fel <b>kb. 1 kg FŐTT</b> lencsét (3 ebédnyit). A kettő véletlenül majdnem ugyanaz a szám, de teljesen mást jelent.' },
-    { label: 'Miért hummusz és nem tál?', text: 'Ugyanaz a hozzávaló, ugyanaz a tápérték, de heti <b>két turmixolás</b> kiváltja a napi aprítást. A püré <b>3 napig</b> áll el hűtőben – ennél tovább ne tartsd.' },
-    { label: 'A 7. ebéd: szombaton tálként edd', text: 'Két turmixolás 3–3 napot fed, az 6 ebéd – a hetedikre nem jut. Ne told meg a szerdai adagot négy naposra: szombaton <b>hagyd ki a turmixgépet</b>, és edd a régi formában – 330 g egész főtt lencse, rádobva a felkockázott paradicsom és uborka, olívaolaj, citrom, só, bors, oregánó. Ugyanaz a tápérték, ugyanaz az ár, és egy nap a héten nem pürét eszel.' },
+    { label: 'Csináld a reggeli turmix után, ugyanabban a kancsóban', text: 'Öntsd ki a turmixot, öblítsd ki a kancsót, és jöhet a hummusz. Egy mosogatás kettő helyett, és az egész napi rutinhoz két percet ad hozzá.' },
+    { label: 'Miért konzerv és nem száraz lencse?', text: 'Így a tervben <b>egyáltalán nincs főzés</b> a reggeli rántottán kívül – nincs vasárnapi 25 perces lencsefőzés, nincs 2,5 kg főtt lencse a hűtőben, nincs eltarthatósági határidő. Cserébe drága: a konzerv lencse <b>~31 800 Ft/kg fehérje</b>, a száraz 7 600 – ez a terv legdrágább fehérjeforrása lett. Napi ~416 Ft-ot fizetsz azért, hogy ne kelljen főznöd.' },
+    { label: 'Egy doboz = egy adag, és ez kevesebb, mint a főtt lencse volt', text: 'A 310 g konzerv 22 g fehérjét és 279 kcal-t ad, szemben a korábbi 330 g főtt beluga 32,5 g / 455 kcal-jával. Ezt a kiesést hozza vissza a reggeli megemelt zabadagja (35 → 60 g). <b>A címkét ellenőrizd</b> – ha a dobozon lecsepegtetett tömeg is szerepel, a tápértékek eltérhetnek az itt számolttól.' },
     { label: 'Amit tudnod kell a tahiniről', text: 'Ez helyettesíti a kikerült fetát, és majdnem pontosan ugyanazt a zsírt és kalóriát hozza, csak szezámból. Polcon áll el hónapokig, tehát nincs maradékgond: egy ~454 g-os üveg <b>öt hétre</b> elég. Használat előtt <b>keverd át</b> – az olaj kiül a tetejére.' }
   ],
-  nutrition: { kcal: 622, kcalPct: 27, protein: 36, proteinPct: 22, carb: 86, carbNet: 68, fat: 13, fiber: 18, fiberPct: 37 },
-  micros: 'Folát ~430 µg (215% NRV) · magnézium ~300 mg · vas ~9 mg · kálium ~1 400 mg · likopin · E-vitamin'
+  nutrition: { kcal: 446, kcalPct: 20, protein: 26, proteinPct: 17, carb: 45, carbNet: 28, fat: 14, fiber: 17, fiberPct: 33 },
+  micros: 'Folát ~250 µg · magnézium ~130 mg · vas ~6 mg · kálium ~800 mg · likopin · E-vitamin · <b>só ~2 g dobozonként</b> (öblítés után kb. a fele marad)'
 };
 
 const meal3 = {
@@ -190,7 +190,7 @@ const dinners = {
     price: 1051,
     dressing: 'citromos',
     ingredients: [
-      { name: 'Beluga fekete lencse (száraz)', amount: '80 g', product: 'Beluga fekete lencse 500 g', pack: '949 Ft / 500 g', price: 152 },
+      { name: 'Párolt lencse konzerv', amount: '1 doboz (310 g)', product: 'Globus párolt lencse 310 g', pack: '599 Ft / 310 g', price: 599 },
       { name: 'Avokádó (tisztítva)', amount: '120 g', product: 'Szájérett avokádó (kb. 200 g/db, ebből ~140 g hús)', pack: '429 Ft / 1 db', price: 368 },
       { name: 'Koktélparadicsom', amount: '100 g', product: 'Paradicsom fürtöskoktél 500 g', pack: '894 Ft / 500 g', price: 179 },
       { name: 'Cékla (nyers, reszelve)', amount: '70 g', product: 'Cékla lédig', pack: '499 Ft / 1 kg', price: 35, highlight: true },
@@ -200,12 +200,12 @@ const dinners = {
       { name: 'Extra szűz olívaolaj', amount: '3 g', product: 'Auchan Kedvenc extra szűz olívaolaj 1 l PET', pack: '5 799 Ft / 1 l ≈ 920 g', price: 19 }
     ],
     steps: [
-      { text: 'Mérj ki <b>200 g főtt beluga lencsét</b> a vasárnapi adagból, és reszelj rá durvára 70 g nyers céklát. <b>A céklát tedd a tál egyik oldalára</b>, ne keverd át azonnal.' },
+      { text: 'Öblítsd át egy doboz párolt lencsét szűrőben hideg víz alatt, csepegtesd le, tedd a tálba. Reszelj rá durvára 70 g nyers céklát. <b>Ez a hét második konzerve</b> – szerdán kettőt nyitsz, egyet ebédre, egyet ide. <b>A céklát tedd a tál egyik oldalára</b>, ne keverd át azonnal.' },
       { text: 'Vágd félbe az avokádót, kanalazd ki a húsát, kockázd fel – dobd a lencsére.' },
       { text: 'Tedd rá a salátakeveréket, a félbevágott koktélparadicsomot, a vékonyra szelt lilahagymát.' },
       { text: 'Bőven citromlé (ez tartja zölden az avokádót), egy kevés olívaolaj, <b>só</b>, bors. <b>Óvatosan</b> forgasd össze, hogy az avokádó ne kenődjön szét – és hogy a cékla ne fesse rózsaszínre az egészet.' }
     ],
-    nutrition: { kcal: 573, kcalPct: 25, protein: 26, proteinPct: 16, carb: 72, carbNet: 50, fat: 22, fiber: 22, fiberPct: 45 },
+    nutrition: { kcal: 572, kcalPct: 26, protein: 28, proteinPct: 18, carb: 61, carbNet: 34, fat: 23, fiber: 27, fiberPct: 52 },
     micros: 'Egyszeresen telítetlen zsírsavak · kálium ~1 400 mg · folát ~340 µg · E-vitamin · K-vitamin ~110 µg · vas ~5 mg'
   },
 
@@ -337,14 +337,13 @@ export const DAYS = [
 /* ---------- Heti előkészítés ---------- */
 
 export const PREP = [
-  { when: 'Vasárnap · 25 perc', title: 'Lencse (ebből 24 perc passzív)', text: 'Tegyél fel <b>990 g SZÁRAZ</b> beluga lencsét bő, <b>sózatlan</b> hideg vízben. Forrástól <b>24–25 perc</b>. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és <b>teljesen kihűlve</b> tedd a hűtőbe. Ebből <b>kb. 2,5 kg főtt</b> lencse lesz – ez fedi mind a 7 ebédet (napi 330 g) <b>és</b> a szerdai vacsorát (200 g).' },
-  { when: 'Vasárnap + szerda · 2 × 2 perc', title: 'Hummusz', text: 'Turmixolj be <b>3 ebédnyit</b> (kb. 1 kg <b>főtt</b> lencse a készletből) a 2. étkezésnél leírt arányok szerint. A vasárnapi adag fedi vasárnap–keddet, a szerdai szerda–pénteket. <b>Szombaton nincs turmixolás</b> – aznap tálként eszed, egész lencsével.' },
-  { when: 'Heti egyszer · 3 perc', title: 'Banán', text: '2 érett banán meghámozva, negyedelve, tányéron 1 órát fagyasztva, utána zacskóba. 8 adag.' }
+  { when: 'Heti egyszer · 3 perc', title: 'Banán — és ennyi', text: '2 érett (foltos) banán meghámozva, negyedelve, tányéron 1 órát fagyasztva, utána zacskóba. 8 adag, 8 napra. <b>Ez az egyetlen heti előkészítés.</b>' }
 ];
 
 export const PREP_NOTES = [
-  'A 990 g szárazból kb. <b>2,5 kg főtt lencse</b> lesz – ehhez egy nagy, 3 literes doboz kell. Ha <b>két kisebb dobozba</b> osztod, csak az egyiket nyitogatod, a másik érintetlenül vár.',
-  'A főtt lencse hűtőben <b>5–7 napig</b> jó; a belőle turmixolt <b>hummusz csak 3 napig</b>. Ezért van két turmixolás, ezért nem turmixolsz be egyszerre egy hétre valót, és ezért marad a szombati ebéd tálas – így egyetlen adag hummusz sem lesz 3 napnál idősebb. A szombati lencse 6 napos lesz: még belefér, de ez a hét legszűkebb pontja. Ha zavar, főzz kétszer (vasárnap és csütörtök) feleakkora adagot.'
+  '<b>Nincs vasárnapi lencsefőzés</b>, nincs adagolás, nincs semmi előre elkészítve. A 2. étkezés naponta készül, 2 perc: konzervnyitás, öblítés, turmixolás – csináld a reggeli turmix után, ugyanabban a kancsóban.',
+  'A 7 vacsora mindegyike 3–6 perc, aznap: konzervnyitás, öblítés, vágás, összeforgatás. Ezzel a tervben <b>egyetlen főzési művelet maradt</b>: a reggeli rántotta.',
+  '<b>Amit ezzel elveszítettél:</b> a száraz lencse a terv legolcsóbb fehérjéje volt (7 600 Ft/kg fehérje a konzerv 31 800-ával szemben). A napi ~416 Ft-os felár ára ez a szakasz – ami korábban 30 perc volt, most 3.'
 ];
 
 /* ---------- Bevásárlólista ---------- */
@@ -353,35 +352,36 @@ const A = 'https://auchan.hu/shop/';
 
 export const SHOPPING = {
   summary: {
-    monthly: 124646,
-    food: 100002,
+    monthly: 137909,
+    food: 113265,
     supplements: 24115,
     spices: 529,
-    daily: 4100,
-    perMeal: 1025
+    daily: 4537,
+    perMeal: 1134
   },
   rhythm: [
-    { name: 'Heti', when: 'hetente', items: 16, once: 19063, monthly: 82924 },
-    { name: 'Kétheti', when: 'kéthetente', items: 3, once: 5371, monthly: 11655 },
+    { name: 'Heti', when: 'hetente', items: 17, once: 22346, monthly: 97205 },
+    { name: 'Kétheti', when: 'kéthetente', items: 2, once: 4982, monthly: 10811 },
     { name: 'Havi', when: 'havonta', items: 5, once: 6893, monthly: 6893 },
     { name: 'Ritka', when: 'kb. 2,5 havonta', items: 1, once: 5799, monthly: 2320 },
     { name: 'Fűszer / só', when: 'alkalomszerűen', items: 3, once: null, monthly: 529 },
     { name: 'Kiegészítők', when: 'külön ritmus', items: 5, once: null, monthly: 24115 }
   ],
-  practice: 'A hónap 4 hetéből 2-ben csak a heti listát veszed meg (~19 063 Ft), egyszer a heti + kétheti (~24 434 Ft), egyszer a heti + kétheti + havi (~31 327 Ft).',
+  practice: 'A hónap 4 hetéből 2-ben csak a heti listát veszed meg (~22 346 Ft), egyszer a heti + kétheti (~27 328 Ft), egyszer a heti + kétheti + havi (~34 221 Ft).',
   lists: [
     {
       id: 'heti',
       title: 'Heti lista',
       cadence: 'minden héten',
-      total: 19063,
+      total: 22346,
       intro: 'Ez a törzslista. Friss és gyorsan fogyó tételek.',
       items: [
         { name: 'Paradicsom fürtöskoktél 500 g', url: A + 'paradicsom-furtoskoktel-500-g.p-765618', qty: '3 doboz', unit: '894 Ft', price: 2682, aisle: 'Zöldség – gyümölcs' },
         { name: 'Cheeseland natúr, zsírszegény cottage cheese 150 g', url: A + 'cheeseland-natur-zsirszegeny-cottage-cheese-150-g.p-896238', qty: '5 doboz', unit: '459 Ft', price: 2295, aisle: 'Tejtermék › Túró, tejszín' },
         { name: 'Auchan Kedvenc kaukázusi kefir 450 g', url: A + 'auchan-kedvenc-kaukazusi-kefir-450-g.p-310723', qty: '6 pohár', unit: '379 Ft', price: 2274, aisle: 'Tejtermék › Tejföl, kefir', flag: 'A kefir 4-ről 6 pohárra ment fel – napi 350 g kell.' },
         { name: 'Auchan Kedvenc áfonya, gyorsfagyasztott 450 g', url: A + 'auchan-kedvenc-afonya-gyorsfagyasztott-450-g.p-735731', qty: '2 zacskó', unit: '1 079 Ft', price: 2158, aisle: 'Fagyasztott gyümölcs' },
-        { name: 'Beluga fekete lencse 500 g', url: A + 'beluga-fekete-lencse-500-g.p-657119', qty: '2 zacskó', unit: '949 Ft', price: 1898, aisle: 'Szárított alapanyag' },
+        { name: 'Globus párolt lencse 310 g', url: A + 'globus-parolt-lencse-310-g.p-459223', qty: '8 doboz', unit: '599 Ft', price: 4792, aisle: 'Konzervek', flag: 'A lista legnagyobb egyedi tétele. Napi 1 doboz ebédre, plusz 1 extra szerdán a vacsorához. Összetevő csak lencse, ivóvíz, étkezési só legyen.' },
+        { name: 'Bona Vita zabpehely 500 g', url: A + 'bona-vita-zabpehely-500-g.p-493809', qty: '1 zacskó', unit: '389 Ft', price: 389, aisle: 'Müzli, gabonapehely', flag: 'Átkerült a heti listára: a napi adag 35 → 60 g, így heti 420 g fogy.' },
         { name: 'Happy Frucht fehérbab 400 g', url: A + 'happy-frucht-feherbab-400-g.p-478553', qty: '3 konzerv', unit: '549 Ft', price: 1647, aisle: 'Konzervek' },
         { name: 'Happy Frucht csicseriborsó 400 g', url: A + 'happy-frucht-csicseriborso-400-g.p-276157', qty: '2 konzerv', unit: '549 Ft', price: 1098, aisle: 'Konzervek' },
         { name: 'Kígyóuborka', url: A + 'kigyouborka-ft-db.p-500104', qty: '3 db', unit: '349 Ft', price: 1047, aisle: 'Zöldség – gyümölcs' },
@@ -400,14 +400,13 @@ export const SHOPPING = {
       id: 'ketheti',
       title: 'Kétheti lista',
       cadence: 'minden második héten',
-      total: 5371,
+      total: 4982,
       intro: 'Ezek a kiszerelések nem osztódnak kerekre egy hétre, ezért kétheti ritmusban veszed őket.',
       items: [
         { name: 'Szijártó friss tojás M méret 10 db', url: A + 'szijarto-friss-tojas-m-meret-10-db.p-59504', qty: '7 doboz (70 db)', unit: '669 Ft', price: 4683, aisle: 'Tojás' },
-        { name: 'Bona Vita zabpehely 500 g', url: A + 'bona-vita-zabpehely-500-g.p-493809', qty: '1 zacskó', unit: '389 Ft', price: 389, aisle: 'Müzli, gabonapehely' },
         { name: 'Cékla lédig', url: A + 'cekla-ledig.p-6948', qty: '~600 g (1 nagy vagy 2 kisebb gumó)', unit: '499 Ft/kg', price: 299, aisle: 'Zöldség – gyümölcs', flag: 'Nyerset vegyél, súlyra. Ha van rajta zöld szár, vágd le rögtön otthon.' }
       ],
-      outro: '<b>Miért pont ennyi:</b> a tojásból naponta 5 db kell (heti 35) → 2 hét = 70 db = pontosan 7 doboz. A zabból napi 35 g fogy, az 500 g-os zacskó pontosan 2 hét. A céklából heti 280 g kell (4 vacsora × 70 g) → 2 hét = 560 g.'
+      outro: '<b>Miért pont ennyi:</b> a tojásból naponta 5 db kell (heti 35) → 2 hét = 70 db = pontosan 7 doboz. A céklából heti 280 g kell (4 vacsora × 70 g) → 2 hét = 560 g.'
     },
     {
       id: 'havi',
@@ -465,17 +464,17 @@ export const SHOPPING = {
   ],
   firstShop: {
     rows: [
-      { name: 'Heti lista', price: 19063 },
-      { name: 'Kétheti lista', price: 5371 },
+      { name: 'Heti lista', price: 22346 },
+      { name: 'Kétheti lista', price: 4982 },
       { name: 'Havi lista', price: 6893 },
       { name: 'Ritka (olívaolaj)', price: 5799 },
       { name: 'Fűszer, só', price: 819 },
       { name: 'D3 + cink (Auchan)', price: 5198 },
-      { name: 'Auchan összesen', price: 43143, strong: true },
+      { name: 'Auchan összesen', price: 46037, strong: true },
       { name: 'GymBeam: fehérjepor + kreatin + omega-3', price: 29570 },
-      { name: 'Első bevásárlás mindösszesen', price: 72713, strong: true, total: true }
+      { name: 'Első bevásárlás mindösszesen', price: 75607, strong: true, total: true }
     ],
-    note: 'A <b>2. héttől</b> ez lezuhan: a legtöbb héten csak a heti lista kell, ~19 063 Ft.'
+    note: 'A <b>2. héttől</b> ez lezuhan: a legtöbb héten csak a heti lista kell, ~22 346 Ft.'
   },
   tips: [
     { name: 'Tahini', text: 'A <b>libanoni, 7 068 Ft/kg</b>-os a jó, ne a Makedoniki 300 g-ost vedd (10 563 Ft/kg). Az összetevők közt csak szezámmag legyen. Használat előtt keverd át – az olaj kiül a tetejére.' },
@@ -491,7 +490,8 @@ export const SHOPPING = {
     { name: 'Jódozott só', text: 'Ellenőrizd a csomagoláson, hogy tényleg jódozott. Hal és tengeri alga nélkül ez az egyetlen jódforrásod.' }
   ],
   savings: [
-    { step: 'Fehérjepor 45 → 30 g', save: '–5 900 Ft/hó', cost: 'A fehérje 163-ról ~151 g-ra esne (2,01 g/ttkg). <b>Deficitben ez pont a rossz irány</b> – ez tartja meg az izmot. Ez a legnagyobb mozdítható tétel, és mégis ehhez nyúlnék utoljára.' },
+    { step: 'Konzerv lencse → száraz beluga lencse', save: '–12 600 Ft/hó', cost: 'Visszajön a vasárnapi 25 perces főzés és a 2,5 kg főtt lencse a hűtőben. A messze legnagyobb megtakarítás – és pontosan az a kényelem, amit szándékosan megvettél.' },
+    { step: 'Fehérjepor 45 → 30 g', save: '–5 900 Ft/hó', cost: 'A fehérje 156-ról ~144 g-ra esne (1,92 g/ttkg). <b>Deficitben ez pont a rossz irány</b> – ez tartja meg az izmot. Ez a legnagyobb mozdítható tétel, és mégis ehhez nyúlnék utoljára.' },
     { step: 'Koktélparadicsom → sima paradicsom', save: '–5 500 Ft/hó', cost: 'Nem szereted a sima paradicsomot.' },
     { step: 'Kefir → UHT tej (239 Ft/l)', save: '–4 600 Ft/hó', cost: 'Elveszíted a napi élő kultúrákat, és a kalcium ~880-ról ~700 mg alá esne.' },
     { step: 'Cottage cheese → félzsíros túró', save: '–4 200 Ft/hó', cost: 'Nem az, amit kértél.' },

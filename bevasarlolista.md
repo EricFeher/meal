@@ -1,8 +1,8 @@
 # Bevásárlólista — Mediterrán rendszer, lassú fogyás
 
-**Készült:** 2026. 09. 12. · **Átdolgozva:** 2026. 09. 13. · **Árak:** [auchan.hu](https://auchan.hu) és [gymbeam.hu](https://gymbeam.hu), 2026. 09. 12–13-i lekérés · Minden terméknév kattintható link a termékoldalra.
+**Készült:** 2026. 09. 12. · **Átdolgozva:** 2026. 09. 14. · **Árak:** [auchan.hu](https://auchan.hu) és [gymbeam.hu](https://gymbeam.hu), 2026. 09. 12–14-i lekérés · Minden terméknév kattintható link a termékoldalra.
 
-> **Mi változott 09. 13-án:** a **krémfehér sajt teljesen kikerült** a listáról · **tahini** és **nyers cékla** bejött · a **sárgarépa kikerült** · a kefir 4 → 6 pohár/hét · a fehérjepor 30 → 45 g/nap · a zab, banán, chia és olívaolaj mennyisége csökkent. A terv célja tömegelésről **lassú fogyásra** váltott.
+> **Mi változott:** a **krémfehér sajt teljesen kikerült** a listáról · **tahini** és **nyers cékla** bejött · a **sárgarépa kikerült** · a kefir 4 → 6 pohár/hét · a fehérjepor 30 → 45 g/nap · a **száraz beluga lencsét napi 1 doboz konzerv párolt lencse váltja** · a zab visszament 60 g/napra. A terv célja tömegelésről **lassú fogyásra** váltott, és **megszűnt az utolsó főzési lépés is**.
 
 ---
 
@@ -10,16 +10,16 @@
 
 | | Összeg |
 |---|---:|
-| **Havi teljes költség** | **124 646 Ft** |
-| ebből élelmiszer | 100 002 Ft |
+| **Havi teljes költség** | **137 909 Ft** |
+| ebből élelmiszer | 113 265 Ft |
 | ebből táplálékkiegészítő | 24 115 Ft |
 | ebből fűszer/só | 529 Ft |
-| Napi költség | 4 100 Ft |
-| Egy étkezés átlagos ára (4 étkezés/nap) | 1 025 Ft |
+| Napi költség | 4 537 Ft |
+| Egy étkezés átlagos ára (4 étkezés/nap) | 1 134 Ft |
 
-> **Miért 4 100 Ft és nem 3 935?** Az étrend-dokumentumban szereplő 3 935 Ft/nap csak az ételt és a shake két porát tartalmazza. Az itteni 4 100 Ft ezen felül a D3-at, a cinket, az omega-3-at és a fűszereket is – együtt napi 162 Ft. Ugyanaz a terv, csak ez a szám teljes.
+> **Miért 4 537 Ft és nem 4 371?** Az étrend-dokumentumban szereplő 4 371 Ft/nap csak az ételt és a shake két porát tartalmazza. Az itteni 4 537 Ft ezen felül a D3-at, a cinket, az omega-3-at és a fűszereket is – együtt napi 166 Ft. Ugyanaz a terv, csak ez a szám teljes.
 
-> **A korábbi 4 148 Ft-hoz képest ez alig változott – de a szerkezete igen.** A feta kiesése heti ~1 945 Ft-ot vett le, a megemelt fehérjepor viszont majdnem ugyanennyit tett vissza. Kevesebbet eszel, nagyjából ugyanannyiért: ez a deficit ára.
+> **Ez az eredeti 4 148 Ft-nál ~9%-kal több, pedig kevesebbet eszel.** Két tétel viszi: a **konzerv lencse** (+2 894 Ft/hét a száraz helyett) és a **megemelt fehérjepor** (45 g/nap). A feta kiesése heti ~1 945 Ft-ot vett le, de nem eleget. Cserébe a tervben **nincs főzés** a reggeli rántottán kívül, és a napi előkészítés 2 perc.
 
 > Ez a **fogyasztási** költség: az, amennyi ténylegesen elfogy egy hónap alatt. Az első bevásárlás ennél drágább, mert akkor a 2–10 hétre elegendő tételeket is megveszed – lásd a **9. pontot**.
 
@@ -31,14 +31,14 @@ Négy különböző ritmus van. A legtöbb hét csak a **heti listát** jelenti.
 
 | Ritmus | Mikor | Tételek | Egy alkalom ára | Havi hatás |
 |---|---|---:|---:|---:|
-| **Heti** | hetente | 16 | 19 063 Ft | 82 924 Ft |
-| **Kétheti** | kéthetente | 3 | 5 371 Ft | 11 655 Ft |
+| **Heti** | hetente | 17 | 22 346 Ft | 97 205 Ft |
+| **Kétheti** | kéthetente | 2 | 4 982 Ft | 10 811 Ft |
 | **Havi** | havonta | 5 | 6 893 Ft | 6 893 Ft |
 | **Ritka** | kb. 2,5 havonta | 1 | 5 799 Ft | 2 320 Ft |
 | Fűszer / só | alkalomszerűen | 3 | – | 529 Ft |
 | Kiegészítők | lásd 8. pont | 5 | – | 24 115 Ft |
 
-**Gyakorlatban:** a hónap 4 hetéből 2-ben csak a heti listát veszed meg (~19 063 Ft), egyszer a heti + kétheti (~24 434 Ft), egyszer a heti + kétheti + havi (~31 327 Ft).
+**Gyakorlatban:** a hónap 4 hetéből 2-ben csak a heti listát veszed meg (~22 346 Ft), egyszer a heti + kétheti (~27 328 Ft), egyszer a heti + kétheti + havi (~34 221 Ft).
 
 ---
 
@@ -52,19 +52,22 @@ Négy különböző ritmus van. A legtöbb hét csak a **heti listát** jelenti.
 | 2 | [Cheeseland natúr, zsírszegény cottage cheese 150 g](https://auchan.hu/shop/cheeseland-natur-zsirszegeny-cottage-cheese-150-g.p-896238) | 5 doboz | 459 Ft | **2 295 Ft** | Friss élelmiszer › Tejtermék, tojás, sajt › Túró, tejszín |
 | 3 | [Auchan Kedvenc kaukázusi kefir 450 g](https://auchan.hu/shop/auchan-kedvenc-kaukazusi-kefir-450-g.p-310723) | **6 pohár** | 379 Ft | **2 274 Ft** | Friss élelmiszer › Tejtermék, tojás, sajt › Tejföl, kefir, finomföl |
 | 4 | [Auchan Kedvenc áfonya, gyorsfagyaszott 450 g](https://auchan.hu/shop/auchan-kedvenc-afonya-gyorsfagyaszott-450-g.p-735731) | 2 zacskó | 1 079 Ft | **2 158 Ft** | Fagyasztott élelmiszer › Fagyasztott zöldség, gyümölcs › Fagyasztott gyümölcs |
-| 5 | [Beluga fekete lencse 500 g](https://auchan.hu/shop/beluga-fekete-lencse-500-g.p-657119) | 2 zacskó | 949 Ft | **1 898 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Szárított sütés főzés alapanyag |
-| 6 | [Happy Frucht fehérbab 400 g](https://auchan.hu/shop/happy-frucht-feherbab-400-g.p-478553) | 3 konzerv | 549 Ft | **1 647 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
-| 7 | [Happy Frucht csicseriborsó 400 g](https://auchan.hu/shop/happy-frucht-csicseriborso-400-g.p-276157) | 2 konzerv | 549 Ft | **1 098 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
-| 8 | [Kígyóuborka Ft/db](https://auchan.hu/shop/kigyouborka-ft-db.p-500104) | 3 db | 349 Ft | **1 047 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Zöldség |
-| 9 | [Happy Frucht vörös kidney bab 400 g](https://auchan.hu/shop/happy-frucht-voros-kidney-bab-400-g.p-66354) | 1 konzerv | 735 Ft | **735 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
-| 10 | [Trikolor kaliforniai paprika 3 db](https://auchan.hu/shop/trikolor-kaliforniai-paprika-3-db.p-177746) | 1 csomag (3 db) | 649 Ft | **649 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Zöldség |
-| 11 | [Petrezselyem csomós XL](https://auchan.hu/shop/petrezselyem-csomos-xl.p-412690) | 1 csomó | 599 Ft | **599 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Fűszernövény |
-| 12 | [Eisberg Pántlika Mix friss saláta- és zöldségkeverék 190 g](https://auchan.hu/shop/eisberg-pantlika-mix-friss-salata-es-zoldsegkeverek-190-g.p-675566) | 1 zacskó | 549 Ft | **549 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Előrecsomagolt saláta |
-| 13 | [Bonduelle Gold morzsolt csemegekukorica 170 g](https://auchan.hu/shop/bonduelle-gold-morzsolt-csemegekukorica-170-g.p-599212) | 1 kis konzerv | 499 Ft | **499 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
-| 14 | [Szájérett avokado Ft/db](https://auchan.hu/shop/szajerett-avokado-ft-db.p-2909) | 1 db | 429 Ft | **429 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Gyümölcs |
-| 15 | [Nádudvari zsírszegény, élőflórás natúr joghurt 150 g](https://auchan.hu/shop/nadudvari-zsirszegeny-elofloras-natur-joghurt-150-g.p-929375) | 3 pohár | 98 Ft | **294 Ft** | Friss élelmiszer › Tejtermék, tojás, sajt › Joghurtok |
-| 16 | [Banán lédig](https://auchan.hu/shop/banan-ledig.p-7123) | **2 db** (~350 g héjastul) | 599 Ft/kg | **210 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Gyümölcs |
-| | | | **Összesen** | **19 063 Ft** | |
+| 5 | [Globus párolt lencse 310 g](https://auchan.hu/shop/globus-parolt-lencse-310-g.p-459223) | **8 doboz** | 599 Ft | **4 792 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok › Zöldség konzervek |
+| 6 | [Bona Vita zabpehely 500 g](https://auchan.hu/shop/bona-vita-zabpehely-500-g.p-493809) | 1 zacskó | 389 Ft | **389 Ft** | Tartós élelmiszer › Termékek reggelire › Müzli, gabonapehely |
+| 7 | [Happy Frucht fehérbab 400 g](https://auchan.hu/shop/happy-frucht-feherbab-400-g.p-478553) | 3 konzerv | 549 Ft | **1 647 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
+| 8 | [Happy Frucht csicseriborsó 400 g](https://auchan.hu/shop/happy-frucht-csicseriborso-400-g.p-276157) | 2 konzerv | 549 Ft | **1 098 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
+| 9 | [Kígyóuborka Ft/db](https://auchan.hu/shop/kigyouborka-ft-db.p-500104) | 3 db | 349 Ft | **1 047 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Zöldség |
+| 10 | [Happy Frucht vörös kidney bab 400 g](https://auchan.hu/shop/happy-frucht-voros-kidney-bab-400-g.p-66354) | 1 konzerv | 735 Ft | **735 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
+| 11 | [Trikolor kaliforniai paprika 3 db](https://auchan.hu/shop/trikolor-kaliforniai-paprika-3-db.p-177746) | 1 csomag (3 db) | 649 Ft | **649 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Zöldség |
+| 12 | [Petrezselyem csomós XL](https://auchan.hu/shop/petrezselyem-csomos-xl.p-412690) | 1 csomó | 599 Ft | **599 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Fűszernövény |
+| 13 | [Eisberg Pántlika Mix friss saláta- és zöldségkeverék 190 g](https://auchan.hu/shop/eisberg-pantlika-mix-friss-salata-es-zoldsegkeverek-190-g.p-675566) | 1 zacskó | 549 Ft | **549 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Előrecsomagolt saláta |
+| 14 | [Bonduelle Gold morzsolt csemegekukorica 170 g](https://auchan.hu/shop/bonduelle-gold-morzsolt-csemegekukorica-170-g.p-599212) | 1 kis konzerv | 499 Ft | **499 Ft** | Tartós élelmiszer › Alapvető élelmiszerek › Konzervek, savanyúságok |
+| 15 | [Szájérett avokado Ft/db](https://auchan.hu/shop/szajerett-avokado-ft-db.p-2909) | 1 db | 429 Ft | **429 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Gyümölcs |
+| 16 | [Nádudvari zsírszegény, élőflórás natúr joghurt 150 g](https://auchan.hu/shop/nadudvari-zsirszegeny-elofloras-natur-joghurt-150-g.p-929375) | 3 pohár | 98 Ft | **294 Ft** | Friss élelmiszer › Tejtermék, tojás, sajt › Joghurtok |
+| 17 | [Banán lédig](https://auchan.hu/shop/banan-ledig.p-7123) | **2 db** (~350 g héjastul) | 599 Ft/kg | **210 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Gyümölcs |
+| | | | **Összesen** | **22 346 Ft** | |
+
+> **A 8 doboz lencse a lista legnagyobb egyedi tétele lett (4 792 Ft).** Napi egy doboz az ebédhez, plusz egy extra szerdán a vacsorához. Ez váltotta a heti 990 g száraz beluga lencsét (1 898 Ft) – **ugyanaz az alapanyag, két és félszeres áron**, cserébe megszűnt a vasárnapi 25 perces főzés és minden eltarthatósági korlát. Polcon évekig áll, tehát nyugodtan vehetsz egyszerre kéthetnyit.
 
 **Marad a hét végén:** kb. 50 g cottage cheese, **~250 g kefir**, 60 g fagyasztott áfonya, ~200 g koktélparadicsom és 1 adag fagyasztott banán – ezek mind átgörgetnek a következő hétre.
 
@@ -81,11 +84,12 @@ Négy különböző ritmus van. A legtöbb hét csak a **heti listát** jelenti.
 | # | Termék | Mennyiség | Egységár | Tétel ára | Áruházi osztály |
 |---:|---|---:|---:|---:|---|
 | 1 | [Szijártó friss tojás M méret 10 db](https://auchan.hu/shop/szijarto-friss-tojas-m-meret-10-db.p-59504) | 7 doboz (70 db) | 669 Ft | **4 683 Ft** | Friss élelmiszer › Tejtermék, tojás, sajt › Tojás |
-| 2 | [Bona Vita zabpehely 500 g](https://auchan.hu/shop/bona-vita-zabpehely-500-g.p-493809) | 1 zacskó | 389 Ft | **389 Ft** | Tartós élelmiszer › Termékek reggelire › Müzli, gabonapehely |
-| 3 | [Cékla lédig](https://auchan.hu/shop/cekla-ledig.p-6948) | **~600 g** (1 nagy vagy 2 kisebb gumó) | 499 Ft/kg | **299 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Zöldség |
-| | | | **Összesen** | **5 371 Ft** | |
+| 2 | [Cékla lédig](https://auchan.hu/shop/cekla-ledig.p-6948) | **~600 g** (1 nagy vagy 2 kisebb gumó) | 499 Ft/kg | **299 Ft** | Friss élelmiszer › Zöldség - gyümölcs › Zöldség |
+| | | | **Összesen** | **4 982 Ft** | |
 
-**Miért pont ennyi:** a tojásból naponta 5 db kell (heti 35) → 2 hét = **70 db = pontosan 7 doboz**. A zabból napi 35 g fogy, az 500 g-os zacskó **pontosan 2 hét**. A céklából heti 280 g kell (4 vacsora × 70 g) → 2 hét = 560 g.
+**Miért pont ennyi:** a tojásból naponta 5 db kell (heti 35) → 2 hét = **70 db = pontosan 7 doboz**. A céklából heti 280 g kell (4 vacsora × 70 g) → 2 hét = 560 g.
+
+> **A zabpehely átkerült a heti listára.** A napi adag 35 g-ról **60 g-ra** nőtt (ez pótolja a konzervlencsével kieső ~176 kcal-t), így heti 420 g fogy – az 500 g-os zacskó már nem tart ki két hétig.
 
 > **A cékla lédig, azaz súlyra veszed** – nem kell egész gumót venned, mérj ki annyit, amennyi kell. Ha van rajta zöld szár, **vágd le rögtön otthon**, mert elszívja a nedvességet a gumóból. Egész, nyers cékla a zöldségfiókban **2–4 hétig** eláll, tehát a kétheti ritmus bőven belefér.
 
@@ -167,17 +171,17 @@ Az induláskor egyszerre veszed meg mind a négy ritmus tételeit, plusz a fűsz
 
 | Tétel | Összeg |
 |---|---:|
-| Heti lista | 19 063 Ft |
-| Kétheti lista | 5 371 Ft |
+| Heti lista | 22 346 Ft |
+| Kétheti lista | 4 982 Ft |
 | Havi lista | 6 893 Ft |
 | Ritka (olívaolaj) | 5 799 Ft |
 | Fűszer, só | 819 Ft |
 | D3 + cink (Auchan) | 5 198 Ft |
-| **Auchan összesen** | **43 143 Ft** |
+| **Auchan összesen** | **46 037 Ft** |
 | GymBeam: fehérjepor + kreatin + omega-3 | 29 570 Ft |
-| **Első bevásárlás mindösszesen** | **72 713 Ft** |
+| **Első bevásárlás mindösszesen** | **75 607 Ft** |
 
-A **2. héttől** ez lezuhan: a legtöbb héten csak a heti lista kell, ~19 063 Ft.
+A **2. héttől** ez lezuhan: a legtöbb héten csak a heti lista kell, ~22 346 Ft.
 
 ---
 
@@ -185,16 +189,16 @@ A **2. héttől** ez lezuhan: a legtöbb héten csak a heti lista kell, ~19 063 
 
 | Kategória | Számítás | Havi |
 |---|---|---:|
-| Heti lista | 19 063 Ft × 4,35 hét | 82 924 Ft |
-| Kétheti lista | 5 371 Ft × 2,17 | 11 655 Ft |
+| Heti lista | 22 346 Ft × 4,35 hét | 97 205 Ft |
+| Kétheti lista | 4 982 Ft × 2,17 | 10 811 Ft |
 | Havi lista | 6 893 Ft × 1 | 6 893 Ft |
 | Olívaolaj | 5 799 Ft ÷ 2,5 hónap | 2 320 Ft |
 | Fűszer, só | – | 529 Ft |
 | Kiegészítők | – | 24 115 Ft |
-| **Összesen (bevásárlási modell)** | | **128 436 Ft** |
-| **Összesen (tényleges fogyasztás)** | | **124 646 Ft** |
+| **Összesen (bevásárlási modell)** | | **141 873 Ft** |
+| **Összesen (tényleges fogyasztás)** | | **137 909 Ft** |
 
-A két szám között ~3 790 Ft a különbség: ennyi a felkerekítés miatti tartalék, ami nem vész el, hanem átgörget a következő hónapra (kefir, tojás, fagyasztott gyümölcs, konzervek).
+A két szám között ~3 964 Ft a különbség: ennyi a felkerekítés miatti tartalék, ami nem vész el, hanem átgörget a következő hónapra (kefir, tojás, fagyasztott gyümölcs, konzervek).
 
 ---
 
@@ -202,6 +206,7 @@ A két szám között ~3 790 Ft a különbség: ennyi a felkerekítés miatti ta
 
 | Tétel | Mire figyelj |
 |---|---|
+| **Párolt lencse konzerv** | A **Globus 310 g, 599 Ft** (2 260 Ft/kg) az olcsóbb; a [Bonduelle Vapeur](https://auchan.hu/shop/bonduelle-vapeur-gozben-parolt-lencse-310-g.p-142965) ugyanaz 739 Ft-ért. Összetevő csak *lencse, ivóvíz, étkezési só* legyen. **Ellenőrizd a címkén a lecsepegtetett tömeget** – ha a dobozon 310 g-nál kisebb nettó szerepel, a napi adag gyengébb, mint amivel itt számoltam, és napi 1,5 dobozra lesz szükséged. |
 | **Tahini** | A **libanoni, 7 068 Ft/kg**-os a jó, ne a Makedoniki 300 g-ost vedd (10 563 Ft/kg). Az összetevők közt csak szezámmag legyen. Használat előtt keverd át – az olaj kiül a tetejére. |
 | **Cékla** | **Nyerset vegyél, lédig** – nem főttet, nem ecetest. Az Auchan **nem forgalmaz sima előfőzött céklát**: amit a polcon találsz „cékla" néven, az ecetes savanyúság (Auchan Kedvenc, Gloster, Bonduelle, Kertike) vagy egy fermentált, tormás-fokhagymás változat. **Egyik sem jó ide.** A nyers gumó a zöldségosztályon van, kilóra. |
 | **Cottage cheese** | Az Auchan egyetlen valódi cottage cheese-t forgalmaz – ez az. **Ne túrót vegyél helyette**, a kettő nem ugyanaz (a túró száraz és morzsás, 17 g fehérje/100 g; a cottage cheese nedves rögök, 12 g). |
@@ -220,14 +225,15 @@ A két szám között ~3 790 Ft a különbség: ennyi a felkerekítés miatti ta
 
 | Lépés | Megtakarítás | Mibe kerül |
 |---|---:|---|
+| **Konzerv lencse → száraz beluga lencse** | **–12 600 Ft/hó** | Visszajön a vasárnapi 25 perces főzés és a 2,5 kg főtt lencse a hűtőben. Ez a messze legnagyobb megtakarítás a listán – és pontosan az a kényelem, amit szándékosan megvettél. |
 | Fehérjepor 45 → 30 g | **–5 900 Ft/hó** | A fehérje 163-ról ~151 g-ra esne (2,01 g/ttkg). **Deficitben ez pont a rossz irány** – ez tartja meg az izmot. Ez a legnagyobb mozdítható tétel, és mégis ehhez nyúlnék utoljára. |
 | Koktélparadicsom → sima paradicsom | **–5 500 Ft/hó** | Nem szereted a sima paradicsomot. |
 | Kefir → UHT tej (239 Ft/l) | –4 600 Ft/hó | Elveszíted a napi élő kultúrákat, és a kalcium ~880-ról ~700 mg alá esne. |
 | Cottage cheese → félzsíros túró (1 370 Ft/kg) | –4 200 Ft/hó | Nem az, amit kértél. |
 | Tahini → semmi, csak olívaolaj | –2 300 Ft/hó | A hummusz elveszíti a jellegét, és kiesik egy növényfaj. A kalóriát olajjal pótolnád, ami ugyanannyi. |
 
-Ezek egyikét sem építettem be – mind olyasmit vesz el, amit korábban kifejezetten kértél, vagy ami a fogyás alatt épp a legfontosabb. A lista így is **124 646 Ft/hó**, ami napi 4 100 Ft négy étkezésre, **163 g fehérjével és 2 276 kcal-lal**.
+Ezek egyikét sem építettem be – mind olyasmit vesz el, amit korábban kifejezetten kértél, vagy ami a fogyás alatt épp a legfontosabb. A lista így is **137 909 Ft/hó**, ami napi 4 537 Ft négy étkezésre, **156 g fehérjével és 2 195 kcal-lal**.
 
 ---
 
-*Az árak 2026. 09. 12–13-án érvényes online árak; a tahini, a cékla és a kefir árát 09. 13-án ellenőriztem a webshopban. Az Auchan áruházi árai eltérhetnek az online áraktól. A GymBeam árai a listaárak, előfizetéssel jellemzően 5%-kal olcsóbbak.*
+*Az árak 2026. 09. 12–14-én érvényes online árak; a tahini, a cékla és a kefir árát 09. 13-án, a párolt lencse árát és címkeadatait 09. 14-én ellenőriztem a webshopban. Az Auchan áruházi árai eltérhetnek az online áraktól. A GymBeam árai a listaárak, előfizetéssel jellemzően 5%-kal olcsóbbak.*

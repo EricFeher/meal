@@ -1,8 +1,10 @@
 # Mediterrán rendszer — 75 kg, 170 cm, lassú fogyás főzés nélkül
 
-**Készült:** 2026. 09. 12. · **Átdolgozva:** 2026. 09. 13. · **Árak:** auchan.hu online katalógus + gymbeam.hu (fehérjepor, kreatin), 2026. 09. 12–13-i lekérés
+**Készült:** 2026. 09. 12. · **Átdolgozva:** 2026. 09. 14. · **Árak:** auchan.hu online katalógus + gymbeam.hu (fehérjepor, kreatin), 2026. 09. 12–14-i lekérés
 
-> **Mi változott a 09. 13-i átdolgozásban:** a cél tömegelésről **lassú fogyásra** váltott · a **krémfehér sajt (feta) kikerült az egész tervből** · a 7 vacsorában **egyáltalán nincs sajt** · a 2. étkezés **hummusz formátumú lett**, tahinivel · a **sárgarépát nyers reszelt cékla váltja** a négy vacsorában · a kefir 250 → 350 g · a fehérjepor 30 → 45 g. A részletes indoklás a *[Mit változtattam 09. 13-án](#mit-változtattam-09-13-án)* szakaszban.
+> **Mi változott:** a cél tömegelésről **lassú fogyásra** váltott · a **krémfehér sajt (feta) kikerült az egész tervből** · a 7 vacsorában **egyáltalán nincs sajt** · a 2. étkezés **hummusz formátumú lett**, tahinivel · a **sárgarépát nyers reszelt cékla váltja** a négy vacsorában · a kefir 250 → 350 g · a fehérjepor 30 → 45 g · **a száraz lencsét konzerv párolt lencse váltja**, amivel megszűnt az utolsó főzési lépés is. A részletes indoklás a *[Mit változtattam](#mit-változtattam-09-13-án)* szakaszban.
+
+> **A tervben egyetlen főzési művelet van: a reggeli rántotta.** Minden más konzervnyitás, turmixolás és vágás.
 
 ---
 
@@ -14,22 +16,22 @@
 
 | | Cél | Ez a terv |
 |---|---:|---:|
-| Kalória | 2 200–2 300 kcal | **2 276 kcal** |
-| Fehérje | 160–175 g (2,1–2,3 g/ttkg) | **163 g** (2,17 g/ttkg) |
-| Szénhidrát | 190–230 g | **225 g** |
-| Zsír | 65–85 g | **77 g** |
-| Rost | 35–45 g | **49 g** |
-| Napi élelmiszerköltség | – | **3 935 Ft** |
+| Kalória | 2 150–2 250 kcal | **2 195 kcal** |
+| Fehérje | **min. 150 g** (2,0–2,3 g/ttkg) | **156 g** (2,08 g/ttkg) |
+| Szénhidrát | 190–230 g | **198 g** |
+| Zsír | 65–85 g | **80 g** |
+| Rost | 35–45 g | **52 g** |
+| Napi élelmiszerköltség | – | **4 371 Ft** |
 
-**Deficit: ~274 kcal/nap.** Ez heti ~0,25 kg, havi ~1,1 kg fogyás. Lassú, és pont ezért működik: ebben a tempóban a leadott súly döntő része zsír, nem izom.
+**Deficit: ~355 kcal/nap.** Ez heti ~0,32 kg, havi ~1,4 kg fogyás. Lassú, és pont ezért működik: ebben a tempóban a leadott súly döntő része zsír, nem izom.
 
-> **Miért ilyen magas a fehérje?** Deficitben a fehérje nem luxus, hanem ez tartja meg az izmot. A 2,17 g/ttkg tudatos – fogyókúrában feljebb kell menni, nem lejjebb. Ezért lett a fehérjepor 30 g helyett 45 g, miközben a zsír és a szénhidrát csökkent.
+> **Miért ilyen magas a fehérje?** Deficitben a fehérje nem luxus, hanem ez tartja meg az izmot. A 2,08 g/ttkg tudatos – fogyókúrában feljebb kell menni, nem lejjebb. Ezért lett a fehérjepor 30 g helyett 45 g, miközben a zsír és a szénhidrát csökkent. **A 150 g a padló, nem a cél** – ha valamit elveszel a tervből, ezt nézd meg először.
 
 > **Miért nem tömegelsz?** 170 cm-en 75 kg = BMI 26. Innen tovább hízni azt jelenti, hogy a többlet nagy része zsír lesz. Előbb le egy pár kilót, utána lehet tiszta lappal tömegelni – abból sokkal többet hoz ki a szervezet.
 
-> **A rostról:** 49 g bőven a 30 g-os ajánlás fölött van. Ha most 20–25 g körül vagy, **ne ugorj rá egyből** – az első héten felezd meg a hüvelyes-adagokat (120 g konzerv, 150 g főtt lencse), és két hét alatt told fel a teljes mennyiségre. Igyál napi 3–3,5 l vizet.
+> **A rostról:** 52 g bőven a 30 g-os ajánlás fölött van. Ha most 20–25 g körül vagy, **ne ugorj rá egyből** – az első héten felezd meg a hüvelyes-adagokat (120 g konzerv, 150 g főtt lencse), és két hét alatt told fel a teljes mennyiségre. Igyál napi 3–3,5 l vizet.
 
-> **Hogyan skálázd.** Mérd a súlyod hetente egyszer, ugyanakkor, ugyanúgy. Ha **2 hét alatt nem mozdul**: vedd le a 2. étkezés olívaolaját 5 g-ról 3 g-ra és a zabpelyhet 35 g-ról 25 g-ra (≈ –95 kcal). Ha **heti 0,5 kg-nál gyorsabban fogysz**, az már túl gyors – add vissza a banánt 60 g-ra és a zabot 50 g-ra (≈ +85 kcal). **A fehérjeporhoz ne nyúlj egyik irányban sem.**
+> **Hogyan skálázd.** Mérd a súlyod hetente egyszer, ugyanakkor, ugyanúgy. Ha **2 hét alatt nem mozdul**: vedd le a zabpelyhet 60 g-ról 45 g-ra és a 2. étkezés olívaolaját 5 g-ról 3 g-ra (≈ –75 kcal). Ha **heti 0,5 kg-nál gyorsabban fogysz**, az már túl gyors – add vissza a banánt 60 g-ra és told a zabot 75 g-ra (≈ +84 kcal). **A fehérjeporhoz és a lencsekonzervhez ne nyúlj egyik irányban sem** – azok tartják a 150 g fehérjét.
 
 ---
 
@@ -42,7 +44,7 @@
 
 | Hozzávaló | Mennyiség | Auchan termék | Kiszerelés ára | Adag ára |
 |---|---:|---|---:|---:|
-| Zabpehely | **35 g** | Bona Vita zabpehely 500 g | 389 Ft / 500 g | 27 Ft |
+| Zabpehely | **60 g** | Bona Vita zabpehely 500 g | 389 Ft / 500 g | 47 Ft |
 | Fagyasztott áfonya | **120 g** | Auchan Kedvenc áfonya, gyorsfagyasztott 450 g | 1 079 Ft / 450 g | 288 Ft |
 | Banán (hámozva, **fagyasztva**) | **30 g** | Banán lédig | 599 Ft / 1 kg | 18 Ft |
 | Chia mag | **8 g** | Kalifa chia mag 200 g | 969 Ft / 200 g | 39 Ft |
@@ -50,7 +52,7 @@
 | Tojás (M, héj nélkül) | **275 g** | Szijártó friss tojás M méret 10 db | 669 Ft / 10 db | 335 Ft |
 | Cottage cheese (zsírszegény) | **100 g** | Cheeseland natúr, zsírszegény cottage cheese 150 g | 459 Ft / 150 g doboz | 306 Ft |
 | Extra szűz olívaolaj | **3 g** | Auchan Kedvenc extra szűz olívaolaj 1 l PET | 5 799 Ft / 1 l ≈ 920 g | 19 Ft |
-| | | | **Adag összesen** | **1 327 Ft** |
+| | | | **Adag összesen** | **1 347 Ft** |
 
 **Elkészítés**
 
@@ -59,49 +61,49 @@
 3. Melegíts fel 3 g olívaolajat tapadásmentes serpenyőben **közepesnél alacsonyabb** lángon. Öntsd bele a masszát, és 3–4 percig lapáttal húzogasd. A cottage cheese sokkal nedvesebb a túrónál, ezért tovább tart, mint a sima rántotta – hagyd, hogy a fölös víz elpárologjon, de **vedd le a tűzről, amikor még fénylik**. Magas lángon összeesik és vizet enged.
 4. **Most sózd meg**, tekerj rá borsot, és szórj rá egy csipet oregánót vagy chilipelyhet.
 
-> **Fagyasztott banán – heti 3 perc.** Napi 30 g egy közepes banán negyede, vágva-hűtve pedig 2 nap alatt megbarnulna. Ezért: végy **2 banánt**, érleld a pulton amíg **foltos** (ekkor a legédesebb), **hámozd meg**, vágd **4 darabra**, terítsd szét egy tányéron úgy, hogy ne érjenek össze, fagyaszd **1 órát**, és csak utána öntsd zacskóba. A tálcás előfagyasztás nélkül egyetlen tömbbé fagynak össze. 2 banán = 8 adag = 8 nap. **Héjastul ne fagyaszd** – utána nem tudod meghámozni. A fagyott banán ráadásul sűrűbbre és hidegebbre turmixolja az italt, ami most, a lecsökkentett zabadag mellett kifejezetten jól jön.
+> **Fagyasztott banán – heti 3 perc.** Napi 30 g egy közepes banán negyede, vágva-hűtve pedig 2 nap alatt megbarnulna. Ezért: végy **2 banánt**, érleld a pulton amíg **foltos** (ekkor a legédesebb), **hámozd meg**, vágd **4 darabra**, terítsd szét egy tányéron úgy, hogy ne érjenek össze, fagyaszd **1 órát**, és csak utána öntsd zacskóba. A tálcás előfagyasztás nélkül egyetlen tömbbé fagynak össze. 2 banán = 8 adag = 8 nap. **Héjastul ne fagyaszd** – utána nem tudod meghámozni. A fagyott banán ráadásul sűrűbbre és hidegebbre turmixolja az italt.
 
 **Tápanyag**
 
 | Tápanyag | Mennyiség | A napi bevitel %-a |
 |---|---:|---:|
-| **Energia** | **977 kcal** | 43% |
-| Fehérje | 66 g | 40% |
-| Szénhidrát (összes) | 61 g | – |
-| ebből felszívódó | 50 g | – |
-| Zsír | 48 g | – |
-| **Rost** | **11 g** | 22% |
+| **Energia** | **1 072 kcal** | 49% |
+| Fehérje | 69 g | 44% |
+| Szénhidrát (összes) | 76 g | – |
+| ebből felszívódó | 62 g | – |
+| Zsír | 50 g | – |
+| **Rost** | **14 g** | 27% |
 
 **Kiemelt mikrotápanyagok:** B12 ~3,8 µg (152% NRV), kolin ~720 mg (5 tojás), élő probiotikus kultúrák (kefir), kalcium ~640 mg, ALA omega-3 ~1,5 g (chia), C-vitamin ~15 mg, szelén ~60 µg.
 
-### Meal 2 — Beluga lentil hummus
-*2. étkezés – Beluga lencsés hummusz*
+### Meal 2 — Lentil hummus
+*2. étkezés – Lencsés hummusz*
 
 **Hozzávalók és árak**
 
 | Hozzávaló | Mennyiség | Auchan termék | Kiszerelés ára | Adag ára |
 |---|---:|---|---:|---:|
-| Beluga fekete lencse (száraz) | **130 g** | Beluga fekete lencse 500 g | 949 Ft / 500 g | 247 Ft |
+| Párolt lencse konzerv | **1 doboz (310 g)** | Globus párolt lencse 310 g | 599 Ft / 310 g | 599 Ft |
 | Tahini (szezámpaszta) | **12 g** | Libanoni szezámpaszta (auchan.hu, 7 068 Ft/kg) | 3 209 Ft / ~454 g | 85 Ft |
 | Koktélparadicsom | **120 g** | Paradicsom fürtöskoktél 500 g | 894 Ft / 500 g | 215 Ft |
 | Kígyóuborka | **120 g** | Kígyóuborka (kb. 400 g/db) | 349 Ft / 1 db | 105 Ft |
 | Extra szűz olívaolaj | **5 g** | Auchan Kedvenc extra szűz olívaolaj 1 l PET | 5 799 Ft / 1 l ≈ 920 g | 32 Ft |
 | Citromlé (frissen facsarva) | **10 g** | Auchan Kedvenc facsarni való citrom 1 kg | 1 899 Ft / 1 kg ≈ 350 ml lé | 54 Ft |
 | Fokhagyma | **1 gerezd (~4 g)** | Fokhagyma 3 db/csomag | 447 Ft / 3 db | 12 Ft |
-| | | | **Adag összesen** | **750 Ft** |
+| | | | **Adag összesen** | **1 102 Ft** |
 
-**Elkészítés**
+**Elkészítés — naponta 2 perc, nincs előkészítés**
 
-1. **Vasárnap – a heti lencsekészlet:** **990 g SZÁRAZ** beluga lencsét öblíts át, tedd fel 3-szoros mennyiségű hideg, *sózatlan* vízzel. Forrástól számítva **24–25 perc** – ez hosszabb, mint a régi tálas verzióban, mert a pürének puhább szem kell. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és **teljesen hidegen** tedd zárható dobozba. Ebből lesz **kb. 2,5 kg főtt lencse**, ami az egész hetet fedi.
-2. **Turmixolás – heti kétszer, egy adag 3 napra.** Egy turmixolás **3 ebédnyi**: 3 × 330 g = **kb. 1 kg FŐTT lencse** a vasárnapi készletből · 36 g tahini · 15 g olívaolaj · 30 g citromlé · 3 gerezd fokhagyma · kb. 90 ml hideg víz · bors, oregánó. Turmixold 60–90 másodpercig, egyszer kaparva le az oldalát. Vízzel hígítsd mártogatós állagúra, kanalanként.
-3. **A sót a legvégén add hozzá, kóstolás után.** Mióta nincs benne feta, semmi nem sózza meg helyetted – többet fog kérni, mint gondolnád.
-4. **Tálalás (1 perc):** mérj ki egy adagot, mellé félbevágott koktélparadicsom és **vastag uborkacsíkok** – ezekkel mártogatod. Kenyér nincs, nem is kell.
+1. **Nyisd ki a konzervet**, öntsd szűrőbe, **öblítsd át hideg vízzel**. Az öblítés a sót mossa le – a konzerv 0,64 g sót tartalmaz 100 grammonként, ami dobozonként ~2 g.
+2. **Turmixold** a lencsét 12 g tahinivel, 5 g olívaolajjal, 10 g citromlével és 1 gerezd fokhagymával, borssal és oregánóval. **60–90 másodperc**, egyszer kaparva le az oldalát. Vizet általában nem kell hozzáadni – ha nagyon sűrű, kanalanként.
+3. **Ne sózd meg.** Ez az egyetlen étkezés a tervben, ahol nem kell – a konzerv hozza a sót. Kóstold meg, mielőtt bármit hozzáadnál.
+4. **Tálalás:** félbevágott koktélparadicsom és **vastag uborkacsíkok** mellé – ezekkel mártogatod. Kenyér nincs, nem is kell.
 
-> **Két szám, ne keverd össze őket.** A **990 g a SZÁRAZ** lencse, amit vasárnap egyszer felteszel az egész hétre – ebből lesz ~2,5 kg **főtt** lencse. Egy turmixolás ebből a készletből használ fel **kb. 1 kg FŐTT** lencsét (3 ebédnyit). A kettő véletlenül majdnem ugyanaz a szám, de teljesen mást jelent.
+> **Csináld a reggeli turmix után, ugyanabban a kancsóban.** Öntsd ki a turmixot, öblítsd ki a kancsót, és jöhet a hummusz. Egy mosogatás kettő helyett, és az egész napi rutinhoz két percet ad hozzá.
 
-> **Miért hummusz és nem tál?** Ugyanaz a hozzávaló, ugyanaz a tápérték, de heti **két turmixolás** kiváltja a napi aprítást. A püré **3 napig** áll el hűtőben – ennél tovább ne tartsd.
+> **Miért konzerv és nem száraz lencse?** Így a tervben **egyáltalán nincs főzés** a reggeli rántottán kívül – nincs vasárnapi 25 perces lencsefőzés, nincs 2,5 kg főtt lencse a hűtőben, nincs eltarthatósági határidő. Cserébe drága: a konzerv lencse **~31 800 Ft/kg fehérje**, a száraz 7 600 – ez a terv legdrágább fehérjeforrása lett. Napi ~416 Ft-ot fizetsz azért, hogy ne kelljen főznöd.
 
-> **A 7. ebéd: szombaton tálként edd.** Két turmixolás 3–3 napot fed, az 6 ebéd – a hetedikre nem jut. Ne told meg a szerdai adagot négy naposra: szombaton **hagyd ki a turmixgépet**, és edd a régi formában – 330 g egész főtt lencse, rádobva a felkockázott paradicsom és uborka, olívaolaj, citrom, só, bors, oregánó. Ugyanaz a tápérték, ugyanaz az ár, és egy nap a héten nem pürét eszel.
+> **Egy doboz = egy adag, és ez kevesebb, mint a főtt lencse volt.** A 310 g konzerv 22 g fehérjét és 279 kcal-t ad, szemben a korábbi 330 g főtt beluga 32,5 g / 455 kcal-jával. Ezt a kiesést hozza vissza a reggeli megemelt zabadagja (35 → 60 g). **A címkét ellenőrizd** – ha a dobozon lecsepegtetett tömeg is szerepel, a tápértékek eltérhetnek az itt számolttól.
 
 > **Amit tudnod kell a tahiniről:** ez helyettesíti a kikerült fetát, és majdnem pontosan ugyanazt a zsírt és kalóriát hozza, csak szezámból. Polcon áll el hónapokig, tehát nincs maradékgond: egy ~454 g-os üveg **öt hétre** elég. Használat előtt **keverd át** – az olaj kiül a tetejére.
 
@@ -109,14 +111,14 @@
 
 | Tápanyag | Mennyiség | A napi bevitel %-a |
 |---|---:|---:|
-| **Energia** | **622 kcal** | 27% |
-| Fehérje | 36 g | 22% |
-| Szénhidrát (összes) | 86 g | – |
-| ebből felszívódó | 68 g | – |
-| Zsír | 13 g | – |
-| **Rost** | **18 g** | 37% |
+| **Energia** | **446 kcal** | 20% |
+| Fehérje | 26 g | 17% |
+| Szénhidrát (összes) | 45 g | – |
+| ebből felszívódó | 28 g | – |
+| Zsír | 14 g | – |
+| **Rost** | **17 g** | 33% |
 
-**Kiemelt mikrotápanyagok:** Folát ~430 µg (215% NRV), magnézium ~300 mg, vas ~9 mg, kálium ~1400 mg, likopin, E-vitamin.
+**Kiemelt mikrotápanyagok:** Folát ~250 µg, magnézium ~130 mg, vas ~6 mg, kálium ~800 mg, likopin, E-vitamin. **Só: ~2 g dobozonként** – öblítés után ennek nagyjából a fele marad.
 
 ### Feeding 3 — protein shake
 *3. étkezés – Fehérjeshake (edzés után vagy délután)*
@@ -254,7 +256,7 @@ Dobj mindent a turmixgépbe, **20–30 másodperc**, és kész. A fokhagymát ne
 
 | Hozzávaló | Mennyiség | Auchan termék | Kiszerelés ára | Adag ára |
 |---|---:|---|---:|---:|
-| Beluga fekete lencse (száraz) | **80 g** | Beluga fekete lencse 500 g | 949 Ft / 500 g | 152 Ft |
+| Párolt lencse konzerv | **1 doboz (310 g)** | Globus párolt lencse 310 g | 599 Ft / 310 g | 599 Ft |
 | Avokádó (tisztítva) | **120 g** | Szájérett avokádó (kb. 200 g/db, ebből ~140 g hús) | 429 Ft / 1 db | 368 Ft |
 | Koktélparadicsom | **100 g** | Paradicsom fürtöskoktél 500 g | 894 Ft / 500 g | 179 Ft |
 | **Cékla (nyers, reszelve)** | **70 g** | Cékla lédig (1 db ≈ 0,5 kg, 250 Ft) | 499 Ft / 1 kg | 35 Ft |
@@ -262,11 +264,11 @@ Dobj mindent a turmixgépbe, **20–30 másodperc**, és kész. A fokhagymát ne
 | Lilahagyma | **20 g** | Lilahagyma 500 g | 369 Ft / 500 g | 15 Ft |
 | Citromlé (frissen facsarva) | **15 g** | Auchan Kedvenc facsarni való citrom 1 kg | 1 899 Ft / 1 kg ≈ 350 ml lé | 81 Ft |
 | Extra szűz olívaolaj | **3 g** | Auchan Kedvenc extra szűz olívaolaj 1 l PET | 5 799 Ft / 1 l ≈ 920 g | 19 Ft |
-| | | | **Adag összesen** | **1 051 Ft** |
+| | | | **Adag összesen** | **1 498 Ft** |
 
 **Elkészítés**
 
-1. Mérj ki 200 g főtt beluga lencsét a vasárnapi adagból, és reszelj rá durvára 70 g nyers céklát. **A céklát tedd a tál egyik oldalára**, ne keverd át azonnal.
+1. Öblítsd át egy doboz párolt lencsét szűrőben hideg víz alatt, csepegtesd le, tedd a tálba. Reszelj rá durvára 70 g nyers céklát. **A céklát tedd a tál egyik oldalára**, ne keverd át azonnal. **Ez a hét második konzerve** – szerdán kettőt nyitsz, egyet ebédre, egyet ide.
 2. Vágd félbe az avokádót, kanalazd ki a húsát, kockázd fel – dobd a lencsére.
 3. Tedd rá a salátakeveréket, a félbevágott koktélparadicsomot, a vékonyra szelt lilahagymát.
 4. Bőven citromlé (ez tartja zölden az avokádót), egy kevés olívaolaj, **só**, bors. **Óvatosan** forgasd össze, hogy az avokádó ne kenődjön szét – és hogy a cékla ne fesse rózsaszínre az egészet.
@@ -275,12 +277,12 @@ Dobj mindent a turmixgépbe, **20–30 másodperc**, és kész. A fokhagymát ne
 
 | Tápanyag | Mennyiség | A napi bevitel %-a |
 |---|---:|---:|
-| **Energia** | **573 kcal** | 25% |
-| Fehérje | 26 g | 16% |
-| Szénhidrát (összes) | 72 g | – |
-| ebből felszívódó | 50 g | – |
-| Zsír | 22 g | – |
-| **Rost** | **22 g** | 45% |
+| **Energia** | **572 kcal** | 26% |
+| Fehérje | 28 g | 18% |
+| Szénhidrát (összes) | 61 g | – |
+| ebből felszívódó | 34 g | – |
+| Zsír | 23 g | – |
+| **Rost** | **27 g** | 52% |
 
 **Kiemelt mikrotápanyagok:** Egyszeresen telítetlen zsírsavak, kálium ~1400 mg, folát ~340 µg, E-vitamin, K-vitamin ~110 µg, vas ~5 mg.
 
@@ -437,14 +439,14 @@ Dobj mindent a turmixgépbe, **20–30 másodperc**, és kész. A fokhagymát ne
 |---|---|---:|---:|---:|---:|
 | Hétfő | Csicseriborsós-céklás paprikacsónak | 520 | 22 g | 22 g | 1 106 Ft |
 | Kedd | Fehérbabos-petrezselymes saláta | 452 | 27 g | 18 g | 1 230 Ft |
-| Szerda | Lencsés-avokádós tál | 573 | 26 g | 22 g | 1 051 Ft |
+| Szerda | Lencsés-avokádós tál | 572 | 28 g | 27 g | 1 498 Ft |
 | Csütörtök | Fehérbabos-kukoricás saláta | 566 | 31 g | 21 g | 1 349 Ft |
 | Péntek | Vörösbabos-céklás saláta | 527 | 31 g | 21 g | 1 299 Ft |
 | Szombat | Csicseriborsós citromos-zöldfűszeres saláta | 483 | 22 g | 20 g | 1 297 Ft |
 | Vasárnap | Citromos-fokhagymás fehérbabkrém | 414 | 21 g | 18 g | 1 134 Ft |
-| **Átlag** | | **505** | **26 g** | **20 g** | **1 209 Ft** |
+| **Átlag** | | **505** | **26 g** | **21 g** | **1 273 Ft** |
 
-> **A fehérje eloszlásáról őszintén:** hétfőn, szombaton és vasárnap a vacsora 21–22 g fehérjét ad, ami a ~25 g-os étkezésenkénti optimum alatt van. A napi összeg (163 g) bőven rendben, csak az eloszlás lett egyenetlenebb, mióta kikerült a sajt. Ha zavar: ezeken a napokon **told a shake-et estére**, vagy mérj a tálba **+60 g főtt beluga lencsét** a vasárnapi adagból (+5 g fehérje, +70 kcal, 11 Ft).
+> **A fehérje eloszlásáról őszintén:** hétfőn, szombaton és vasárnap a vacsora 21–22 g fehérjét ad, ami a ~25 g-os étkezésenkénti optimum alatt van. A napi összeg (156 g) rendben, csak az eloszlás egyenetlen, mióta kikerült a sajt. Ha zavar: ezeken a napokon **told a shake-et estére**.
 
 ---
 
@@ -452,15 +454,15 @@ Dobj mindent a turmixgépbe, **20–30 másodperc**, és kész. A fokhagymát ne
 
 | | kcal | Fehérje | Szénhidrát | Zsír | Rost | Ár |
 |---|---:|---:|---:|---:|---:|---:|
-| 1. étkezés (turmix + rántotta) | 977 | 66 g | 61 g | 48 g | 11 g | 1 327 Ft |
-| 2. étkezés (lencsés hummusz) | 622 | 36 g | 86 g | 13 g | 18 g | 750 Ft |
+| 1. étkezés (turmix + rántotta) | 1 072 | 69 g | 76 g | 50 g | 14 g | 1 347 Ft |
+| 2. étkezés (lencsés hummusz) | 446 | 26 g | 45 g | 14 g | 17 g | 1 102 Ft |
 | 3. étkezés (fehérjeshake) | 172 | 35 g | 3 g | 3 g | 0 g | 649 Ft |
-| 4. étkezés (vacsora-rotáció, átlag) | 505 | 26 g | 75 g | 13 g | 20 g | 1 209 Ft |
-| **Napi összesen** | **2 276** | **163 g** | **225 g** | **77 g** | **49 g** | **3 935 Ft** |
+| 4. étkezés (vacsora-rotáció, átlag) | 505 | 26 g | 74 g | 13 g | 21 g | 1 273 Ft |
+| **Napi összesen** | **2 195** | **156 g** | **198 g** | **80 g** | **52 g** | **4 371 Ft** |
 
-Makrómegoszlás: fehérje 29% · szénhidrát 31% · zsír 30% (a felszívódó szénhidráttal számolva – a különbözet a rost).
+Makrómegoszlás: fehérje 28% · szénhidrát 27% · zsír 33% (a felszívódó szénhidráttal számolva – a különbözet a rost).
 
-**Fehérje: 2,17 g/ttkg. Deficit: ~274 kcal/nap → heti ~0,25 kg.**
+**Fehérje: 2,08 g/ttkg. Deficit: ~355 kcal/nap → heti ~0,32 kg.**
 
 ---
 
@@ -474,7 +476,7 @@ Makrómegoszlás: fehérje 29% · szénhidrát 31% · zsír 30% (a felszívódó
 | Cottage cheese (zsírszegény) | 700 g | Cheeseland natúr, zsírszegény cottage cheese 150 g | 5 db | 2 142 Ft | 2 295 Ft |
 | Kefir 3,5% (élőflórás) | 2 450 g | Auchan Kedvenc kaukázusi kefir 450 g | 6 db | 2 063 Ft | 2 274 Ft |
 | Fagyasztott áfonya | 840 g | Auchan Kedvenc áfonya, gyorsfagyasztott 450 g | 2 db | 2 014 Ft | 2 158 Ft |
-| Beluga fekete lencse (száraz) | 990 g | Beluga fekete lencse 500 g | 2 db | 1 879 Ft | 1 898 Ft |
+| **Párolt lencse konzerv** | 8 doboz | Globus párolt lencse 310 g | **8 db** | 4 792 Ft | 4 792 Ft |
 | Fehérbab konzerv (lecsepegtetve) | 720 g | Happy Frucht fehérbab 400/240 g | 3 db | 1 647 Ft | 1 647 Ft |
 | Csicseriborsó konzerv (lecsepegtetve) | 480 g | Happy Frucht csicseriborsó 400/240 g | 2 db | 1 098 Ft | 1 098 Ft |
 | Kígyóuborka | 1 110 g | Kígyóuborka (kb. 400 g/db) | 3 db | 969 Ft | 1 047 Ft |
@@ -490,37 +492,36 @@ Makrómegoszlás: fehérje 29% · szénhidrát 31% · zsír 30% (a felszívódó
 | Avokádó (tisztítva) | 120 g | Szájérett avokádó (kb. 200 g/db, ebből ~140 g hús) | 1 db | 368 Ft | 429 Ft |
 | Natúr joghurt (zsírszegény) | 450 g | Nádudvari zsírszegény, élőflórás natúr joghurt 150 g | 3 db | 294 Ft | 294 Ft |
 | Chia mag | 56 g | Kalifa chia mag 200 g | 1 db **3,5 hétre** | 271 Ft | 969 Ft |
-| Zabpehely | 245 g | Bona Vita zabpehely 500 g | 1 db **2 hétre** | 191 Ft | 389 Ft |
+| Zabpehely | 420 g | Bona Vita zabpehely 500 g | 1 db | 327 Ft | 389 Ft |
 | **Cékla (nyers)** | 280 g | Cékla lédig (1 db ≈ 0,5 kg) | 1 db **12 naponta** | 140 Ft | 250 Ft |
 | Banán (hámozva) | 210 g | Banán lédig | 2 db | 126 Ft | 599 Ft |
 | Fokhagyma | 40 g | Fokhagyma 3 db/csomag (kb. 50 g/fej) | 1 db | 119 Ft | 447 Ft |
 | Lilahagyma | 140 g | Lilahagyma 500 g | 1 db | 103 Ft | 369 Ft |
-| | | | **Összesen** | **27 532 Ft** | **61 339 Ft** |
+| | | | **Összesen** | **30 581 Ft** | **64 233 Ft** |
 
-*A napi 3 935 Ft és a heti 27 532 Ft között pár forint eltérés van – ez az egyes tételek kerekítése.*
+*A napi 4 371 Ft és a heti 30 581 Ft (napi 4 369 Ft) között pár forint eltérés van – ez az egyes tételek kerekítése.*
 
 **Ezen felül a kamrába (nem hetente):** Horváth Rozi jódozott só 1 kg – 295 Ft · Horváth Rozi morzsolt oregánó 5 g – 145 Ft · Horváth Rozi fokhagymabors 16 g – 379 Ft · feketebors.
 
-> **Fehérje ára forintban** (Ft / kg fehérje): tej 7 000 · lencse 7 600 · tojás 9 700 · **GymBeam fehérjepor 16 900** · cottage cheese 25 500 · konzerv fehérbab 30 500. A lencse és a tojás a terv két legolcsóbb fehérjeforrása – de **deficitben nem a forint a szűk keresztmetszet, hanem a kalória**: grammnyi fehérjére vetítve a tejsavó ~5 kcal-t hoz, a tojás ~11-et. Ezért lett a fehérjepor a legnagyobb egyedi tétel a listán.
+> **Fehérje ára forintban** (Ft / kg fehérje): tej 7 000 · **száraz lencse 7 600** · tojás 9 700 · GymBeam fehérjepor 16 900 · cottage cheese 25 500 · konzerv fehérbab 30 500 · **konzerv lencse 31 800**. Figyeld meg a két lencsét: ugyanaz az alapanyag **négyszeres áron**, mert a konzervben víz is van, és a főzést fizeted meg. Ez tudatos csere – napi ~416 Ft a főzésmentességért. Ha valaha vissza akarsz térni a száraz lencséhez, ez a terv legnagyobb egyetlen megtakarítása.
+
+> **Deficitben nem a forint a szűk keresztmetszet, hanem a kalória**: grammnyi fehérjére vetítve a tejsavó ~5 kcal-t hoz, a tojás ~11-et, a konzerv lencse ~13-at.
 
 > **Melyik számot nézd?** Az *Elhasznált adag ára* az, amit a hét tényleg felemészt – ez a valós heti étkezési költséged. A *Kosár ára* az első bevásárlás, amikor még minden tartós árut most veszel meg (fehérjepor, kreatin, olívaolaj, tahini, chia, fokhagyma, lencse 2–14 hétre elegendő mennyiségben). A 2. héttől a kosarad jóval közelebb lesz az első számhoz.
 
 ---
 
-## Heti előkészítés
+## Heti előkészítés — 3 perc
 
-Ez már nem egyetlen lépés – **három**, összesen kb. 30 perc, ebből 24 passzív.
+**Egyetlen lépés maradt: a banán.** 2 érett (foltos) banán meghámozva, negyedelve, tányéron 1 órát fagyasztva, utána zacskóba. 8 adag, 8 napra.
 
-**1. Vasárnap, 25 perc (ebből 24 passzív): lencse.** Tegyél fel **990 g SZÁRAZ** beluga lencsét bő, *sózatlan* hideg vízben. Forrástól **24–25 perc**. Szűrd le, öblítsd át hideg vízzel, csepegtesd le jól, és **teljesen kihűlve** tedd a hűtőbe. Ebből **kb. 2,5 kg főtt** lencse lesz – ez fedi mind a 7 ebédet (napi 330 g) **és** a szerdai vacsorát (200 g).
+Ennyi. **Nincs vasárnapi lencsefőzés**, nincs adagolás, nincs semmi előre elkészítve.
 
-**2. Vasárnap + szerda, 2 × 2 perc: hummusz.** Turmixolj be **3 ebédnyit** (kb. 1 kg **főtt** lencse a készletből) a 2. étkezésnél leírt arányok szerint. A vasárnapi adag fedi vasárnap–keddet, a szerdai szerda–pénteket. **Szombaton nincs turmixolás** – aznap tálként eszed, egész lencsével.
+- A **2. étkezés** naponta készül, 2 perc: konzervnyitás, öblítés, turmixolás. Csináld a reggeli turmix után, ugyanabban a kancsóban – egy mosogatás kettő helyett.
+- A **7 vacsora** mindegyike 3–6 perc, aznap: konzervnyitás, öblítés, vágás, összeforgatás.
+- Ezzel a tervben **egyetlen főzési művelet maradt**: a reggeli rántotta.
 
-**3. Heti egyszer, 3 perc: banán.** 2 érett banán meghámozva, negyedelve, tányéron 1 órát fagyasztva, utána zacskóba. 8 adag.
-
-Két gyakorlati megjegyzés:
-
-- A 990 g szárazból kb. **2,5 kg főtt lencse** lesz – ehhez egy nagy, 3 literes doboz kell. Ha **két kisebb dobozba** osztod, csak az egyiket nyitogatod, a másik érintetlenül vár.
-- A főtt lencse hűtőben **5–7 napig** jó; a belőle turmixolt **hummusz csak 3 napig**. Ezért van két turmixolás, ezért nem turmixolsz be egyszerre egy hétre valót, és ezért marad a szombati ebéd tálas – így egyetlen adag hummusz sem lesz 3 napnál idősebb. A szombati lencse 6 napos lesz: még belefér, de ez a hét legszűkebb pontja. Ha zavar, főzz kétszer (vasárnap és csütörtök) feleakkora adagot.
+> **Amit ezzel elveszítettél:** a száraz lencse a terv legolcsóbb fehérjéje volt (7 600 Ft/kg fehérje a konzerv 31 800-ával szemben). A napi ~416 Ft-os felár ára ez a szakasz – ami korábban 30 perc volt, most 3.
 
 ---
 
@@ -535,7 +536,7 @@ A megoldás nem hozzáadás, hanem **csere** – ugyanannyi csomag, kéthetente 
 | Fagyasztott gyümölcs a turmixba | Áfonya (1 079 Ft/450 g) | Gyümölcsleves-keverék (1 149 Ft/500 g) – meggy, szilva, alma |
 | Salátakeverék | Eisberg Pántlika Mix (549 Ft) | Eisberg Ranch Mix (399 Ft) vagy Tango Mix (629 Ft) |
 | Ropogós gyökérzöldség | Cékla (499 Ft/kg) | Lila káposzta (~399 Ft/kg) – nem tesztelt, de ugyanúgy nyersen reszelve megy a tálba |
-| Vörös hüvelyes (péntek) | Kidney bab | Tarkabab (Kerti Ízek száraz tarkabab, 665 Ft/400 g) |
+| Vörös hüvelyes (péntek) | Kidney bab konzerv | Tarkabab **konzerv** – a száraz változat főzést igényelne, ami ebben a tervben már nincs |
 | Zöldfűszer | Petrezselyem | Kapor (399–699 Ft/csomó) |
 
 Ez **+8–10 fajt** ad két hét alatt, nulla plusz csomaggal és gyakorlatilag változatlan költséggel.
@@ -560,11 +561,12 @@ Ez **+8–10 fajt** ad két hét alatt, nulla plusz csomaggal és gyakorlatilag 
 | **Cékla** | 1 db ≈ 500 g, **12 naponta** | heti 280 g | hűtőben 2–4 hétig jó |
 | **Banán** | 2 db hetente | 8 adag fagyasztva | 1 adag átgörget |
 | **Tahini** | 1 × ~454 g, **5 hetente** | heti 84 g | polcon hónapokig jó |
+| **Párolt lencse konzerv** | 8 db hetente | napi 1 doboz (szerdán 2) | 0 – polcon évekig jó |
 
 Hova kerül:
 
-- **Hűtőbe:** salátakeverék, petrezselyem, paprika, uborka, koktélparadicsom, cottage cheese, tojás, citrom, joghurt, kefir, **cékla**, a főtt lencse és a kész hummusz.
-- **Kamrába:** zab, lencse, konzervek, olívaolaj, **tahini**, lilahagyma, fokhagyma, fehérjepor, kreatin, chia.
+- **Hűtőbe:** salátakeverék, petrezselyem, paprika, uborka, koktélparadicsom, cottage cheese, tojás, citrom, joghurt, kefir, **cékla**.
+- **Kamrába:** zab, **lencsekonzerv**, a többi konzerv, olívaolaj, **tahini**, lilahagyma, fokhagyma, fehérjepor, kreatin, chia.
 - **Fagyasztóba:** a bogyós gyümölcs **és mostantól a banán** – mindkettő **fagyottan** megy a turmixba, egyiket sem kell kiolvasztani.
 - **Konyhapultra:** az avokádó, amíg meg nem érik; a banán, amíg foltos nem lesz – utána mindkettő megy tovább (avokádó hűtőbe, banán fagyasztóba).
 
@@ -599,15 +601,17 @@ A **tojásból** heti 28 kell 10-es dobozból – 3–4 dobozt veszel, pár dara
 
 | Változás | Miért |
 |---|---|
-| **Cél: tömegelés → lassú fogyás** | 170 cm / 75 kg = BMI 26. A régi terv 2 560 kcal-ja amúgy sem volt többlet, hanem nagyjából a fenntartó szinted – tehát sose épült volna belőle tiszta tömeg. Most tudatos ~274 kcal deficit, magasabb fehérjével. |
+| **Cél: tömegelés → lassú fogyás** | 170 cm / 75 kg = BMI 26. A régi terv 2 560 kcal-ja amúgy sem volt többlet, hanem nagyjából a fenntartó szinted – tehát sose épült volna belőle tiszta tömeg. Most tudatos ~355 kcal deficit, magasabb fehérjével. |
 | **Krémfehér sajt (feta) kivéve az egész tervből** | Kérésre. Heti 600 g, 1 945 Ft – ez lett a legnagyobb egyedi megtakarítás, és a telített zsír napi ~12 g-ról ~4 g-ra esett. |
 | **A 7 vacsorában semmilyen sajt nincs** | Kérésre – cottage cheese sem került a helyükre. Cserébe a vacsorák fehérjéje 30 → 26 g-ra esett, amit a shake emelése hoz vissza. |
-| **2. étkezés: tál → hummusz** | Ugyanaz a hozzávaló, ugyanaz a tápérték, de heti 2 turmixolás kiváltja a napi 7 aprítást. A beluga sötétszürkére turmixolódik – ez esztétikai ár, nem funkcionális. |
+| **2. étkezés: tál → hummusz** | Naponta 2 perc turmixolás váltja a napi aprítást, és a püré jobban elvan a konzervlencsével, mint a formatartó belugával. |
+| **Száraz beluga lencse → Globus párolt lencse konzerv (napi 1 doboz)** | Így a tervben **nincs főzés** a reggeli rántottán kívül: elmarad a vasárnapi 25 perces lencsefőzés, a 2,5 kg főtt lencse a hűtőben, és minden eltarthatósági korlát. Az ára viszont nagy: a konzerv lencse **31 800 Ft/kg fehérje** a száraz 7 600-ával szemben – napi +416 Ft. Egy doboz (310 g) 22 g fehérjét ad a korábbi 330 g főtt beluga 32,5 g-jával szemben; a különbözetet a visszaemelt zabadag pótolja. |
+| **Zab 35 → 60 g (visszaemelve)** | A konzervlencsével kiesett ~176 kcal-t és a szénhidrátot ez hozza vissza. A legolcsóbb kalória a listán: napi 20 Ft. |
 | **Feta a 2. étkezésben → tahini 12 g** | A tahini majdnem pontosan ugyanazt a zsírt és kalóriát hozza szezámból, polcon hónapokig áll, és **új növényfajt** is behoz. A cottage cheese-t azért nem ide tettem: nyers tálban kicsapódik és levet ereszt, pürében viszont működne – csak a tahini a jobb választás. |
 | **Sárgarépa → nyers reszelt cékla (4 vacsora)** | Nem szereted a sárgarépát. A cékla **nyersen, reszelve** ugyanúgy megy a tálba – nem kell főzni –, 499 Ft/kg (a répa 449 volt), tovább eláll, és **új növénycsaládot** hoz (Amaranthaceae). Cserébe édesebb, és mindent rózsaszínre fest. |
 | **Kefir 250 → 350 g** | A feta kiesésével elvesztett kalcium nagy részét ez hozza vissza, +3,3 g fehérjével. |
-| **Fehérjepor 30 → 45 g** | Ez tartja a fehérjét 163 g-on (2,17 g/ttkg) a deficit ellenére. A legdrágább egyedi tétel a listán, de kalóriára vetítve a leghatékonyabb fehérje. |
-| **Zab 60 → 35 g, banán 60 → 30 g, chia 15 → 8 g, olívaolaj 188 → 97 g/hét, avokádó marad 120 g** | A deficit anyaga. Mind zsír vagy szénhidrát – fehérjét egyikből sem vettem el. |
+| **Fehérjepor 30 → 45 g** | Ez tartja a fehérjét 156 g-on (2,08 g/ttkg) a deficit ellenére. Kalóriára vetítve a leghatékonyabb fehérje a listán. |
+| **Banán 60 → 30 g, chia 15 → 8 g, olívaolaj 188 → 97 g/hét, avokádó marad 120 g** | A deficit anyaga. Mind zsír vagy szénhidrát – fehérjét egyikből sem vettem el. |
 | **Banán fagyasztva, negyedelve** | Napi 30 g egy banán negyede; vágva megbarnul. Fagyasztva nincs pazarlás, és sűrűbb lesz a turmix. |
 
 **Amit megfontoltunk és elvetettünk:**
